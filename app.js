@@ -12,6 +12,6 @@ server.use(middleware)
 server.use(route)
 
 const Port = process.env.PORT || 8075
-const Host = process.env.HOST || '127.0.01'
+const Host = process.env.HOST || '127.0.0.1'
 
 server.listen(Port, () => console.log(`Server is running on http://${Host}:${Port}`))
