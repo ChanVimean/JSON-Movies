@@ -9,7 +9,8 @@ Each anime entry follows this structure:
 ```json
 {
   "id": "",  // Unique ID
-  "title": "",  // movie, series, TV Show
+  "title": "",  // movie title
+  "type": "",  // movie, TV Show, series
   "description": "",  // Brief description
   "genre": [],  // List of genres (e.g., "Action", "Adventure", etc.)
   "release": "",  // Release year (e.g., "2022")
