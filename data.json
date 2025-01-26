@@ -125,10 +125,172 @@
         {"episode": 3, "link": "https://youtu.be/256J-OCrq_w?si=vS-U7u1dsD0lWOpc"}
       ]
     },
-    {}
-    
-    
-    
-    
+    {
+      "id": 6,
+      "title": "One Piece",
+      "type": "series",
+      "description": "One Piece is a legendary anime series based on the manga by Eiichiro Oda. The story follows Monkey D. Luffy, a spirited young pirate with a dream of becoming the Pirate King. Alongside his loyal crew, the Straw Hat Pirates, Luffy sails the Grand Line in search of the mythical treasure, One Piece, while battling formidable foes and forming lasting friendships.",
+      "genre": ["Action", "Adventure", "Fantasy", "Comedy", "Drama"],
+      "release": "1999",
+      "rating": 9.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://youtu.be/1KMcoJBMWE4?si=Ae4s4BJv2KKhBE0B",
+      "cover": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/One-Piece-Triptych.jpg",
+      "thumbnail": "https://static.animecorner.me/2021/11/voI100-scaled.jpg",
+      "duration": 0,
+      "studio": "Toei Animation",
+      "tags": "pirates, treasure hunt, adventure, comedy, friendship, fantasy",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "German"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {"episode": 1, "link": "https://khanime.net/episode/one-piece-log-fish-man-island-saga-season-1-episode-1/"},
+        {"episode": 2, "link": "https://khanime.net/episode/season-1-episode-2-4/"},
+        {"episode": 3, "link": "https://khanime.net/episode/season-1-episode-3-4/"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Naruto",
+      "type": "series",
+      "description": "Naruto is a beloved anime series based on the manga by Masashi Kishimoto. The story follows Naruto Uzumaki, a spirited ninja with dreams of becoming the Hokage, the leader of his village. Despite being ostracized due to the Nine-Tails Fox sealed within him, Naruto's determination, courage, and loyalty inspire those around him as he embarks on a journey of self-discovery, friendship, and battles against powerful foes.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Drama"],
+      "release": "2002",
+      "rating": 9.3,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://youtu.be/-G9BqkgZXRA?si=xCkwXvDj7kr_mN49",
+      "cover": "https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-3840x1080-18714.jpg",
+      "thumbnail": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974740932/naruto-shippuden-the-official-coloring-book-9781974740932_hr.jpg",
+      "duration": 0,
+      "studio": "Pierrot",
+      "tags": "ninja, action, adventure, fantasy, friendship, coming-of-age",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Khmer", "Korean"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {"episode": 1, "link": "https://khanime.net/episode/boruto-naruto-next-generations-season-1-episode-1/"},
+        {"episode": 2, "link": "https://khanime.net/episode/boruto-naruto-next-generations-season-1-episode-2/"},
+        {"episode": 3, "link": "https://khanime.net/episode/boruto-naruto-next-generations-season-1-episode-3/"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Demon Slayer: Mugen Train",
+      "type": "movie",
+      "description": "Demon Slayer: Mugen Train is a movie continuation of the *Demon Slayer* anime series, based on the manga by Koyoharu Gotouge. The story follows Tanjiro Kamado and his companions as they board the Mugen Train to investigate mysterious disappearances. They face off against powerful demons, including the fearsome Lower Rank One, Enmu, in a battle that tests their strength, loyalty, and resolve.",
+      "genre": ["Action", "Adventure", "Supernatural", "Fantasy", "Drama"],
+      "release": "2020",
+      "rating": 8.8,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://khanime.net/movie/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/",
+      "cover": "https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1613993182428-R5SIXOIEUZ5FP6XTU9XE/Cover.png",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000640100413-69mq2s-t500x500.jpg",
+      "duration": 115,
+      "studio": "ufotable",
+      "tags": "demons, action, adventure, supernatural, fantasy",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Khmer"],
+      "audio": ["Japanese"],
+      "episodes": []
+    },
+    {
+      "id": 9,
+      "title": "Jujutsu Kaisen",
+      "type": "series",
+      "description": "Jujutsu Kaisen is an anime series based on the manga by Gege Akutami. The story follows Yuji Itadori, a high school student who becomes involved with the world of Jujutsu Sorcerers after he swallows a cursed object, which turns out to be the finger of a powerful curse named Ryomen Sukuna. With his newfound abilities, Yuji joins a group of sorcerers to fight curses and uncover the mysteries of the supernatural world.",
+      "genre": ["Action", "Adventure", "Fantasy", "Supernatural", "Drama"],
+      "release": "2020",
+      "rating": 8.9,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://youtu.be/Pm-wNmS9RGI?si=bf9S8RgJupu319hS",
+      "cover": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a44778ea-3457-40e0-8979-b7e3685d23d0/dftr3y6-afc7b5f3-7b6e-4259-9a12-0867ac9fbc6b.png/v1/fill/w_1920,h_1010,q_80,strp/jujutsu_kaisen_wallpaper_8k_loading_screen_by_newjer53_dftr3y6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAxMCIsInBhdGgiOiJcL2ZcL2E0NDc3OGVhLTM0NTctNDBlMC04OTc5LWI3ZTM2ODVkMjNkMFwvZGZ0cjN5Ni1hZmM3YjVmMy03YjZlLTQyNTktOWExMi0wODY3YWM5ZmJjNmIucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fVE2bSBHV-CE70zTrPf_gUiTM21HScC3ELzhnGbGf-I",
+      "thumbnail": "https://comenian.org/wp-content/uploads/2024/01/unnamed-87.png",
+      "duration": 0,
+      "studio": "MAPPA",
+      "tags": "curses, jujutsu sorcerers, supernatural, action, adventure",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Khmer", "Korean"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {"episode": 1, "link": "https://khanime.net/episode/jujutsu-kaisen-season-1-episode-1/"},
+        {"episode": 2, "link": "https://khanime.net/episode/jujutsu-kaisen-season-1-episode-2/"},
+        {"episode": 3, "link": "https://khanime.net/episode/jujutsu-kaisen-season-1-episode-3/"}
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Solo Leveling",
+      "type": "series",
+      "description": "Solo Leveling is an anime series based on the popular Korean web novel and manhwa. The story follows Sung Jin-Woo, a weak 'Hunter' in a world where portals connect to dangerous dungeons filled with monsters. After a near-death experience, he gains the ability to level up by completing quests and grows into one of the strongest beings in existence. As he unravels mysteries of the dungeons and his powers, he faces increasingly powerful enemies and uncovers the truth behind the world’s current state.",
+      "genre": ["Action", "Adventure", "Fantasy", "Supernatural", "Drama"],
+      "release": "2023",
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Korean"],
+      "video": "https://youtu.be/byJ7pxxhaDY?si=v7I-lnSCZRGI0CAf",
+      "cover": "https://images6.alphacoders.com/132/1320541.png",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_.jpg",
+      "duration": 0,
+      "studio": "A-1 Pictures",
+      "tags": "dungeons, leveling, action, adventure, supernatural",
+      "country": ["South Korea"],
+      "subtitles": ["English", "Korean", "Japanese", "Khmer"],
+      "audio": ["Korean"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/u87QiXRVBgY?si=gS7DcUxIWY8rxQYx"},
+        {"episode": 2, "link": "https://youtu.be/Z9L1qIh5VXk?si=KslJG1VvbdEogN_x"},
+        {"episode": 3, "link": "https://youtu.be/EnZbUtCYCmw?si=zZ0RfZdMm1Ihkfhx"}
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Spy x Family: CODE White",
+      "type": "movie",
+      "description": "Spy x Family: CODE White is a movie based on the *Spy x Family* anime series. It follows the Forger family as they embark on a mission involving a dangerous cyber-terrorist plot. Twilight, a top spy, must work alongside his fake wife, Yor, and their adopted daughter, Anya, as they navigate the complex world of espionage, blending in their own personal challenges with the global crisis at hand.",
+      "genre": ["Action", "Comedy", "Spy", "Adventure", "Drama"],
+      "release": "2023",
+      "rating": 8.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://youtu.be/sCfNDQmoxkA?si=t-oSwXMZxAY5Y-RY",
+      "cover": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/spy-x-family-code-white-poster-with-the-forgers.jpg",
+      "thumbnail": "https://static.wikia.nocookie.net/spy-x-family9171/images/b/b8/SPY_x_FAMILY_CODE_White_Key_Visual_1.png/revision/latest/scale-to-width-down/1200?cb=20230326010425",
+      "duration": 110,
+      "studio": "WIT Studio, CloverWorks",
+      "tags": "spy, family, action, adventure, comedy, thriller",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Korean", "Khmer"],
+      "audio": ["Japanese", "English"],
+      "episodes": []
+    },
+    {
+      "id": 12,
+      "title": "Sakamoto Days",
+      "type": "TV Show",
+      "description": "Sakamoto Days follows Taro Sakamoto, a former assassin who has retired to lead a peaceful life running a convenience store with his family. However, his past resurfaces, compelling him to return to his lethal skills to protect his loved ones.",
+      "genre": ["Action", "Comedy", "Thriller"],
+      "release": "2025",
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://youtu.be/fPopd3ZOGUY?si=oZfOcRlQiAlo0t4_",
+      "cover": "https://metapress.com/wp-content/uploads/2024/07/Sakamoto-Days.jpeg",
+      "thumbnail": "https://c4.wallpaperflare.com/wallpaper/341/236/1009/sakamoto-days-anime-hd-wallpaper-preview.jpg",
+      "duration": 0,
+      "studio": "TMS Entertainment",
+      "tags": "assassin, action, comedy, thriller",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Khmer"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {"episode": 1, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-1/"},
+        {"episode": 2, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-2/"},
+        {"episode": 3, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-3/"}
+      ]
+    }
   ]
 }
