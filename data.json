@@ -1,0 +1,134 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Battle Through The Heavens",
+      "type": "series",
+      "description": "Battle Through The Heavens is an animated series based on the popular Chinese web novel of the same name. The story follows Xiao Yan, a young martial artist who, after losing all his powers, embarks on a journey of cultivation to regain his strength and uncover the mysteries of his past. Along the way, he faces fierce rivals, powerful enemies, and forms alliances with a variety of characters.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": "2017",
+      "rating": 9.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/_FIUOegRT4s?si=rP1Io2HDPSFRqcDv",
+      "cover": "https://wallpaperaccess.com/full/2478865.jpg",
+      "thumbnail": "https://sspark.ai/cfimages?u1=P65L7Xv%2FyvGeMHjBG%2F%2FqiEemM26dBVh6Uw39wRJLZ72rtOHSVneVsewCVXej521sIuXqPCvwBGZT2yZ9gTCP95bcnWwNISgddVvCypWtW3PSem4FYlZGzwut6sYnPlfp37VVT8UL8w918IBTo4ASRAAzh9QTo8uRdTGF132Tz04pMPs2Xy85%2FHHvrHQRGbeOBGDnhJoepebZMKc1zNCcPyU%3D&u2=ZIx%2Bem3QzWe2iB4h&width=1024",
+      "duration": 0,
+      "studio": "Studio GOKUMI, Tencent Penguin Pictures",
+      "tags": "martial arts, cultivation, fantasy, action, adventure",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian "],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/gSgyw2-WchI?si=7gWkcLej1fvZDxbY"},
+        {"episode": 2, "link": "https://youtu.be/UMU-ZFpjUkA?si=SYOoNhKScPv3FfMN"},
+        {"episode": 3, "link": "https://youtu.be/1FJyYLsxIi4?si=aM6eGrDTk4SVqKid"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Jade Dynasty",
+      "type": "series",
+      "description": "Jade Dynasty is an animated series based on the popular Chinese web novel *Zhu Xian*. The story follows Zhang Xiaofan, a young man who, after the massacre of his family, embarks on a path of cultivation. As he trains to become a powerful martial artist, he uncovers secrets about his lineage, faces enemies, and struggles with moral dilemmas, while exploring themes of love, loyalty, and power.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": "2019",
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/VbM_iZUSL2Q?si=OwArcm1n7-_YxISs",
+      "cover": "https://1.vikiplatform.com/c/39875c/11a9bb2082.jpg?x=b",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDZlNmU4MjUtYjcxZS00YWMzLWIyY2YtNTQxMjc2ZWIwOWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "duration": 0,
+      "studio": "Tencent Penguin Pictures, Xiamen Skyloong Technology Co.",
+      "tags": "martial arts, cultivation, fantasy, action, adventure",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Khmer", "French", "Russian"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/nzMpuKicQwk?si=SUwT_VpEJ2196WJa"},
+        {"episode": 2, "link": ""},
+        {"episode": 3, "link": ""}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Soul Land 1",
+      "type": "series",
+      "description": "Soul Land 1, also known as Douluo Dalu, is an animated series based on the popular Chinese novel of the same name. The story follows Tang San, a young genius of the Tang Sect, who, after sacrificing himself for forbidden knowledge, is reincarnated in a world where martial spirits are awakened. Tang San strives to master his spirit powers, uncover the truth about his reincarnation, and rise to the top of the Soul Land.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": "2018",
+      "rating": 9.0,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/m6-xQpFtSBc?si=cfcEFZZ_Er-cgY0d",
+      "cover": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/243/2024/07/25/Banner_Soul-Land-Awaken-Warsoul-2727553712.jpg",
+      "thumbnail": "https://images.justwatch.com/poster/294534228/s718/season-1.jpg",
+      "duration": 0,
+      "studio": "Tencent Penguin Pictures",
+      "tags": "martial arts, cultivation, fantasy, action, adventure, reincarnation",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/M7lE49GNbf4?si=eL_jFY2kt2PUCWHI"},
+        {"episode": 2, "link": "https://youtu.be/g61Iwi4Ny44?si=G6a3Js5QXXPrXFmF"},
+        {"episode": 3, "link": "https://youtu.be/L1d9NUup2WI?si=ac8tErCifeC6I0Xb"}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Swallowed Star",
+      "type": "series",
+      "description": "Swallowed Star is a futuristic animated series based on the Chinese web novel by I Eat Tomatoes. Set in a post-apocalyptic world where humanity faces destruction from monstrous beings, Luo Feng, a young man with extraordinary determination, strives to become a powerful warrior to protect his loved ones and uncover the mysteries of the universe.",
+      "genre": ["Action", "Adventure", "Sci-Fi", "Martial Arts", "Supernatural"],
+      "release": "2020",
+      "rating": 8.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/-NmrfOU8kdI?si=MefGKTHNUWwihWzO",
+      "cover": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/0qgqd4kcd9ajxrs1730718324583_vjaHUY4d/0",
+      "thumbnail": "https://static.wikia.nocookie.net/swallowed-star/images/4/46/Swallowed_star_blood_luo_poster.jpg/revision/latest?cb=20241220232259",
+      "duration": 0,
+      "studio": "Tencent Penguin Pictures, Studio Motion Magic",
+      "tags": "post-apocalyptic, sci-fi, martial arts, action, adventure",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "French", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/eRmYMiULIvI?si=olJmST4bdOyTSAe3"},
+        {"episode": 2, "link": "https://youtu.be/idjDCoDlZR8?si=I2VfFO8rf7o4mZO7"},
+        {"episode": 3, "link": "https://youtu.be/6ICc16hdCaU?si=eaasnMJk4SjuEN39"}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Throne of Seal",
+      "type": "series",
+      "description": "Throne of Seal, also known as Shen Yin Wang Zuo, is an animated series based on the Chinese web novel by Tang Jia San Shao. The story follows Long Hao Chen, a young knight who embarks on a journey to master the path of a divine knight. Alongside his companions, he battles the forces of darkness and strives to protect humanity, uncovering secrets about his destiny and his family along the way.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": "2022",
+      "rating": 8.8,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/sOhLT7dkrLE?si=U3MhnawdjGr6ApZU",
+      "cover": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/nxxyh0x1vp4nydt1730718445463_IsjPBMWT/0",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjZlMzM5ODMtOWQyYy00ZTMyLTk2NWQtNDg1NTAxYWIzMDgxXkEyXkFqcGc@._V1_.jpg",
+      "duration": 0,
+      "studio": "Tencent Penguin Pictures, Shenman Entertainment",
+      "tags": "divine knight, cultivation, fantasy, action, adventure",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/_NE5Auyipb4?si=D_FWHlMCG9UT_6Fq"},
+        {"episode": 2, "link": "https://youtu.be/mUun9m7AlZ0?si=iSElvuDTmLGfEbXx"},
+        {"episode": 3, "link": "https://youtu.be/256J-OCrq_w?si=vS-U7u1dsD0lWOpc"}
+      ]
+    },
+    {}
+    
+    
+    
+    
+  ]
+}
