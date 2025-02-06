@@ -188,7 +188,7 @@
       "video": "https://youtu.be/-G9BqkgZXRA?si=xCkwXvDj7kr_mN49",
       "cover": "https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-3840x1080-18714.jpg",
       "thumbnail": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974740932/naruto-shippuden-the-official-coloring-book-9781974740932_hr.jpg",
-      "duration": 0,
+      "duration": 24,
       "studio": "Pierrot",
       "tags": "ninja, action, adventure, fantasy, friendship, coming-of-age",
       "country": ["Japan"],
@@ -234,7 +234,7 @@
       "video": "https://youtu.be/Pm-wNmS9RGI?si=bf9S8RgJupu319hS",
       "cover": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a44778ea-3457-40e0-8979-b7e3685d23d0/dftr3y6-afc7b5f3-7b6e-4259-9a12-0867ac9fbc6b.png/v1/fill/w_1920,h_1010,q_80,strp/jujutsu_kaisen_wallpaper_8k_loading_screen_by_newjer53_dftr3y6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAxMCIsInBhdGgiOiJcL2ZcL2E0NDc3OGVhLTM0NTctNDBlMC04OTc5LWI3ZTM2ODVkMjNkMFwvZGZ0cjN5Ni1hZmM3YjVmMy03YjZlLTQyNTktOWExMi0wODY3YWM5ZmJjNmIucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fVE2bSBHV-CE70zTrPf_gUiTM21HScC3ELzhnGbGf-I",
       "thumbnail": "https://comenian.org/wp-content/uploads/2024/01/unnamed-87.png",
-      "duration": 0,
+      "duration": 23,
       "studio": "MAPPA",
       "tags": "curses, jujutsu sorcerers, supernatural, action, adventure",
       "country": ["Japan"],
@@ -259,16 +259,16 @@
       "video": "https://youtu.be/byJ7pxxhaDY?si=v7I-lnSCZRGI0CAf",
       "cover": "https://images6.alphacoders.com/132/1320541.png",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_.jpg",
-      "duration": 0,
+      "duration": 23,
       "studio": "A-1 Pictures",
       "tags": "dungeons, leveling, action, adventure, supernatural",
       "country": ["South Korea"],
       "subtitles": ["English", "Korean", "Japanese", "Khmer"],
       "audio": ["Korean"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/u87QiXRVBgY?si=gS7DcUxIWY8rxQYx"},
-        {"episode": 2, "link": "https://youtu.be/Z9L1qIh5VXk?si=KslJG1VvbdEogN_x"},
-        {"episode": 3, "link": "https://youtu.be/EnZbUtCYCmw?si=zZ0RfZdMm1Ihkfhx"}
+        {"episode": 1, "link": "https://khanime.net/episode/solo-leveling-season-10-episode-1/"},
+        {"episode": 2, "link": "https://khanime.net/episode/solo-leveling-season-10-episode-2/"},
+        {"episode": 3, "link": "https://khanime.net/episode/solo-leveling-season-10-episode-3/"}
       ]
     },
     {
@@ -305,7 +305,7 @@
       "video": "https://youtu.be/fPopd3ZOGUY?si=oZfOcRlQiAlo0t4_",
       "cover": "https://metapress.com/wp-content/uploads/2024/07/Sakamoto-Days.jpeg",
       "thumbnail": "https://c4.wallpaperflare.com/wallpaper/341/236/1009/sakamoto-days-anime-hd-wallpaper-preview.jpg",
-      "duration": 0,
+      "duration": 25,
       "studio": "TMS Entertainment",
       "tags": "assassin, action, comedy, thriller",
       "country": ["Japan"],
