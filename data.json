@@ -316,6 +316,84 @@
         {"episode": 2, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-2/"},
         {"episode": 3, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-3/"}
       ]
+    },
+    {
+      "id": 14,
+      "title": "Dragon Prince Yuan",
+      "type": ["Series", "Donghua"],
+      "description": "Dragon Prince Yuan follows the journey of a young cultivator, Yuan, who is born with a mysterious dragon soul and embarks on a path of growth, seeking strength and answers about his past. With martial arts, cultivation, and fantasy elements, he faces powerful foes, navigates political intrigue, and unravels secrets that could change his world. Set in a world filled with magic, ancient secrets, and powerful clans, Dragon Prince Yuan presents a story of adventure, self-discovery, and destiny.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": 2024,
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/_P7B2CPX0Io?si=uvm7GTjdKlt74v0l",
+      "cover": "https://i.pinimg.com/originals/ba/09/c5/ba09c54e97973942ee7321edd959d220.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTljZjQ4MDMtZWQwZS00ZDY2LWJlZjUtYjc4ODQ3NTc1NjU5XkEyXkFqcGc@._V1_.jpg",
+      "duration": 20,
+      "studio": "Tencent Penguin Pictures",
+      "tags": "martial arts, cultivation, fantasy, adventure, dragon soul",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/gsM6WvD5_TM?si=_AyfY6mVRjg8eLVG"},
+        {"episode": 2, "link": "https://youtu.be/K5EG-QypqHc?si=1uornNe3zU_BaSZy"},
+        {"episode": 3, "link": "https://youtu.be/OJiRQJ8mBOQ?si=BN_gnigV8ql5_pHV"}
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Martial Universe",
+      "type": ["Series", "Donghua"],
+      "description": "Martial Universe follows the story of Lin Dong, a young martial artist who embarks on a journey to seek revenge and uncover the mysteries of the Martial Universe. Along the way, he discovers his true potential and learns about powerful martial arts and cultivation techniques.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": 2018,
+      "rating": 8.8,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/Mnm4mGNBkWQ?si=WenTML36fsJsU90u",
+      "cover": "https://pic-bstarstatic.akamaized.net/ugc/bfd0fda97c4b29d39109271dca836504.jpg",
+      "thumbnail": "https://i.pinimg.com/564x/0a/e4/9a/0ae49a6831c52fadc1c0a44c3424afd7.jpg",
+      "duration": 24,
+      "studio": "Studio GOKUMI, Tencent Penguin Pictures",
+      "tags": "martial arts, cultivation, fantasy, action, revenge, adventure",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/G-I9TpIQldM?si=qgNjKi6aK9i5EAeH"},
+        {"episode": 2, "link": "https://youtu.be/FGR-1wQ2B2k?si=soiLsvVu_IA2cy-Z"},
+        {"episode": 3, "link": "https://youtu.be/1Jc2vi19h5g?si=VTUJYr9DLLrQbwJQ"}
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Perfect World",
+      "type": ["Series", "Donghua"],
+      "description": "Perfect World follows Shi Hao, a boy born with an extraordinary fate. The story explores his journey through a chaotic world full of mystical powers, powerful enemies, and complex relationships as he aims to cultivate to the peak and unlock the mysteries of the universe.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": 2020,
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://youtu.be/BMkq0o8UuQE?si=OyTt2ZS-ngj0-WjP",
+      "cover": "https://i.ytimg.com/vi/4BEXSxEQPO4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_2YEp6asQALl11TfJKXc8Vzq8Fw",
+      "thumbnail": "https://i.pinimg.com/736x/cc/e3/a6/cce3a6ace2ecc39ac3a53d55887d2dc7.jpg",
+      "duration": 18,
+      "studio": "Studio GOKUMI, Tencent Penguin Pictures",
+      "tags": "cultivation, martial arts, fantasy, adventure, supernatural",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {"episode": 1, "link": "https://youtu.be/ZVlrYv_3Dek?si=dTMuJx2BnyJbNbWu"},
+        {"episode": 2, "link": "https://youtu.be/Ju_F_HjLpEQ?si=BWtaObmtKbqrAJ50"},
+        {"episode": 3, "link": "https://youtu.be/4DAN9ieOSrs?si=yetAh72S5E6XOsBF"}
+      ]
     }
+    
+    
+    
   ]
 }
