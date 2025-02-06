@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Battle Through The Heavens",
-      "type": "series",
+      "type": ["Series", "Donghua"],
       "description": "Battle Through The Heavens is an animated series based on the popular Chinese web novel of the same name. The story follows Xiao Yan, a young martial artist who, after losing all his powers, embarks on a journey of cultivation to regain his strength and uncover the mysteries of his past. Along the way, he faces fierce rivals, powerful enemies, and forms alliances with a variety of characters.",
       "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": "2017",
@@ -28,7 +28,7 @@
     {
       "id": 2,
       "title": "Jade Dynasty",
-      "type": "series",
+      "type": ["Series", "Donghua"],
       "description": "Jade Dynasty is an animated series based on the popular Chinese web novel *Zhu Xian*. The story follows Zhang Xiaofan, a young man who, after the massacre of his family, embarks on a path of cultivation. As he trains to become a powerful martial artist, he uncovers secrets about his lineage, faces enemies, and struggles with moral dilemmas, while exploring themes of love, loyalty, and power.",
       "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": "2019",
@@ -53,7 +53,7 @@
     {
       "id": 3,
       "title": "Soul Land 1",
-      "type": "series",
+      "type": ["Series", "Donghua"],
       "description": "Soul Land 1, also known as Douluo Dalu, is an animated series based on the popular Chinese novel of the same name. The story follows Tang San, a young genius of the Tang Sect, who, after sacrificing himself for forbidden knowledge, is reincarnated in a world where martial spirits are awakened. Tang San strives to master his spirit powers, uncover the truth about his reincarnation, and rise to the top of the Soul Land.",
       "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": "2018",
@@ -78,7 +78,7 @@
     {
       "id": 4,
       "title": "Swallowed Star",
-      "type": "series",
+      "type": ["Series", "Donghua"],
       "description": "Swallowed Star is a futuristic animated series based on the Chinese web novel by I Eat Tomatoes. Set in a post-apocalyptic world where humanity faces destruction from monstrous beings, Luo Feng, a young man with extraordinary determination, strives to become a powerful warrior to protect his loved ones and uncover the mysteries of the universe.",
       "genre": ["Action", "Adventure", "Sci-Fi", "Martial Arts", "Supernatural"],
       "release": "2020",
@@ -103,7 +103,7 @@
     {
       "id": 5,
       "title": "Throne of Seal",
-      "type": "series",
+      "type": ["Series", "Donghua"],
       "description": "Throne of Seal, also known as Shen Yin Wang Zuo, is an animated series based on the Chinese web novel by Tang Jia San Shao. The story follows Long Hao Chen, a young knight who embarks on a journey to master the path of a divine knight. Alongside his companions, he battles the forces of darkness and strives to protect humanity, uncovering secrets about his destiny and his family along the way.",
       "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": "2022",
@@ -128,7 +128,7 @@
     {
       "id": 6,
       "title": "One Piece",
-      "type": "series",
+      "type": ["Series", "Anime"],
       "description": "One Piece is a legendary anime series based on the manga by Eiichiro Oda. The story follows Monkey D. Luffy, a spirited young pirate with a dream of becoming the Pirate King. Alongside his loyal crew, the Straw Hat Pirates, Luffy sails the Grand Line in search of the mythical treasure, One Piece, while battling formidable foes and forming lasting friendships.",
       "genre": ["Action", "Adventure", "Fantasy", "Comedy", "Drama"],
       "release": "1999",
@@ -153,7 +153,7 @@
     {
       "id": 7,
       "title": "Naruto",
-      "type": "series",
+      "type": ["Series", "Anime"],
       "description": "Naruto is a beloved anime series based on the manga by Masashi Kishimoto. The story follows Naruto Uzumaki, a spirited ninja with dreams of becoming the Hokage, the leader of his village. Despite being ostracized due to the Nine-Tails Fox sealed within him, Naruto's determination, courage, and loyalty inspire those around him as he embarks on a journey of self-discovery, friendship, and battles against powerful foes.",
       "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Drama"],
       "release": "2002",
@@ -178,7 +178,7 @@
     {
       "id": 8,
       "title": "Demon Slayer: Mugen Train",
-      "type": "movie",
+      "type": ["Series", "Anime"],
       "description": "Demon Slayer: Mugen Train is a movie continuation of the *Demon Slayer* anime series, based on the manga by Koyoharu Gotouge. The story follows Tanjiro Kamado and his companions as they board the Mugen Train to investigate mysterious disappearances. They face off against powerful demons, including the fearsome Lower Rank One, Enmu, in a battle that tests their strength, loyalty, and resolve.",
       "genre": ["Action", "Adventure", "Supernatural", "Fantasy", "Drama"],
       "release": "2020",
@@ -199,7 +199,7 @@
     {
       "id": 9,
       "title": "Jujutsu Kaisen",
-      "type": "series",
+      "type": ["Series", "Anime"],
       "description": "Jujutsu Kaisen is an anime series based on the manga by Gege Akutami. The story follows Yuji Itadori, a high school student who becomes involved with the world of Jujutsu Sorcerers after he swallows a cursed object, which turns out to be the finger of a powerful curse named Ryomen Sukuna. With his newfound abilities, Yuji joins a group of sorcerers to fight curses and uncover the mysteries of the supernatural world.",
       "genre": ["Action", "Adventure", "Fantasy", "Supernatural", "Drama"],
       "release": "2020",
@@ -224,7 +224,7 @@
     {
       "id": 10,
       "title": "Solo Leveling",
-      "type": "series",
+      "type": ["Series", "Anime"],
       "description": "Solo Leveling is an anime series based on the popular Korean web novel and manhwa. The story follows Sung Jin-Woo, a weak 'Hunter' in a world where portals connect to dangerous dungeons filled with monsters. After a near-death experience, he gains the ability to level up by completing quests and grows into one of the strongest beings in existence. As he unravels mysteries of the dungeons and his powers, he faces increasingly powerful enemies and uncovers the truth behind the world’s current state.",
       "genre": ["Action", "Adventure", "Fantasy", "Supernatural", "Drama"],
       "release": "2023",
@@ -249,7 +249,7 @@
     {
       "id": 11,
       "title": "Spy x Family: CODE White",
-      "type": "movie",
+      "type": ["Movie", "Anime"],
       "description": "Spy x Family: CODE White is a movie based on the *Spy x Family* anime series. It follows the Forger family as they embark on a mission involving a dangerous cyber-terrorist plot. Twilight, a top spy, must work alongside his fake wife, Yor, and their adopted daughter, Anya, as they navigate the complex world of espionage, blending in their own personal challenges with the global crisis at hand.",
       "genre": ["Action", "Comedy", "Spy", "Adventure", "Drama"],
       "release": "2023",
@@ -270,7 +270,7 @@
     {
       "id": 12,
       "title": "Sakamoto Days",
-      "type": "TV Show",
+      "type": ["TV Show", "Anime"],
       "description": "Sakamoto Days follows Taro Sakamoto, a former assassin who has retired to lead a peaceful life running a convenience store with his family. However, his past resurfaces, compelling him to return to his lethal skills to protect his loved ones.",
       "genre": ["Action", "Comedy", "Thriller"],
       "release": "2025",
