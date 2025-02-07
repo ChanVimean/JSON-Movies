@@ -9,13 +9,13 @@
   "keywords": [],
   "author": "V",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "json-movies": "file:",
-    "json-server": "^0.17.1",
+    "json-server": "^1.0.0-beta.3",
     "nodemon": "^3.1.9"
   }
 }

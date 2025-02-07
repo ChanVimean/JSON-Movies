@@ -1,17 +1,20 @@
-const jsonServer = require('json-server')
-const server = jsonServer.create()
-const middleware = jsonServer.defaults()
-const route = jsonServer.router('data.json')
-const { config } = require('dotenv')
-const cors = require('cors')
+import jsonServer from 'json-server';
+import cors from 'cors';
+import dotenv from 'dotenv';
 
-config()
+dotenv.config();
 
-server.use(cors())
-server.use(middleware)
-server.use(route)
+const server = jsonServer.create();
+const middleware = jsonServer.defaults();
+const route = jsonServer.router('data.json');
 
-const Port = process.env.PORT || 8075
-const Host = process.env.HOST || '127.0.0.1'
+const PORT = process.env.PORT || 8075;
+const HOST = process.env.HOST || '127.0.0.1';
 
-server.listen(Port, () => console.log(`Server is running on http://${Host}:${Port}`))
+server.use(cors());
+server.use(middleware);
+server.use(route);
+
+server.listen(PORT, () => {
+  console.log(`✅ JSON Server is running on http://${HOST}:${PORT}`);
+});
