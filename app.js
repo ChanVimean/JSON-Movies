@@ -1,6 +1,6 @@
-import jsonServer from 'json-server';
-import cors from 'cors';
-import dotenv from 'dotenv';
+const jsonServer = require('json-server');
+const cors = require('cors');
+const dotenv = require('dotenv');
 
 dotenv.config();
 
