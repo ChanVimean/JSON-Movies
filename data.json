@@ -35,7 +35,7 @@
       "rating": 8.7,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/VbM_iZUSL2Q?si=OwArcm1n7-_YxISs",
+      "video": "https://www.youtube.com/embed/dg3X-PBJtbQ?si=Fc5bru7PjMZf3-u-",
       "cover": "https://1.vikiplatform.com/c/39875c/11a9bb2082.jpg?x=b",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDZlNmU4MjUtYjcxZS00YWMzLWIyY2YtNTQxMjc2ZWIwOWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "duration": 15,
@@ -45,9 +45,9 @@
       "subtitles": ["English", "Chinese", "Khmer", "French", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/nzMpuKicQwk?si=SUwT_VpEJ2196WJa"},
-        {"episode": 2, "link": ""},
-        {"episode": 3, "link": ""}
+        {"episode": 1, "link": "https://www.youtube.com/embed/nzMpuKicQwk?si=csLCV6jWU_3h35N5"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/R2M4Ib1C1aM?si=G5en9JTuzXpXAgfd"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/I4JHhX7JZEg?si=uxCX4Dsf-UdnvzpS"}
       ]
     },
     {
@@ -60,7 +60,7 @@
       "rating": 9.0,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/m6-xQpFtSBc?si=cfcEFZZ_Er-cgY0d",
+      "video": "https://www.youtube.com/embed/m6-xQpFtSBc?si=r49kEX4_-dM6d4s4",
       "cover": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/243/2024/07/25/Banner_Soul-Land-Awaken-Warsoul-2727553712.jpg",
       "thumbnail": "https://images.justwatch.com/poster/294534228/s718/season-1.jpg",
       "duration": 17,
@@ -70,9 +70,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/M7lE49GNbf4?si=eL_jFY2kt2PUCWHI"},
-        {"episode": 2, "link": "https://youtu.be/g61Iwi4Ny44?si=G6a3Js5QXXPrXFmF"},
-        {"episode": 3, "link": "https://youtu.be/L1d9NUup2WI?si=ac8tErCifeC6I0Xb"}
+        {"episode": 1, "link": "https://www.youtube.com/embed/M7lE49GNbf4?si=-g9HiCYmrWdxANNr"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/g61Iwi4Ny44?si=yS0091I2OX8Kc62c"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/L1d9NUup2WI?si=ILIcNN6aezxaEqwq"}
       ]
     },
     {
@@ -85,7 +85,7 @@
       "rating": 9.2,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/YWysStzDZHY?si=FADqYEKmh_M_mMIl",
+      "video": "https://www.youtube.com/embed/HjAy5-7XdIo?si=JZGu4t3AzlrU3OQ3",
       "cover": "https://w0.peakpx.com/wallpaper/984/854/HD-wallpaper-anime-soul-land.jpg",
       "thumbnail": "https://i.pinimg.com/736x/55/a0/6b/55a06baf99ea3cfe0da0e2f538d37580.jpg",
       "duration": 20,
@@ -95,9 +95,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/fciRYJyZubQ?si=aQ7Q-29feY0Cp0rv"},
-        {"episode": 2, "link": "https://youtu.be/G5FLZLpRsY8?si=4lyDEqUk7grYTY6B"},
-        {"episode": 3, "link": "https://youtu.be/CaS4BvkQkwk?si=w6TBX_1tvaFByGkL"}
+        {"episode": 1, "link": "https://www.youtube.com/embed/ucPbRYWUqbw?si=LDDFKzQQEbZ6Zd4N"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/xwaBWEjU_qM?si=SHTH_XJgbf8wmIeF"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/Asx-xhCqKkE?si=si00ini1Hq4SPQ06"}
       ]
     },
     {
@@ -110,7 +110,7 @@
       "rating": 8.5,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/-NmrfOU8kdI?si=MefGKTHNUWwihWzO",
+      "video": "https://www.youtube.com/embed/mbMhId_Rbdw?si=GNO4Y0d7vpJKxFTP",
       "cover": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/0qgqd4kcd9ajxrs1730718324583_vjaHUY4d/0",
       "thumbnail": "https://i.pinimg.com/550x/dd/47/d7/dd47d7bf866d6960ce5402cd5ab4e3b8.jpg",
       "duration": 20,
@@ -120,9 +120,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "French", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/eRmYMiULIvI?si=olJmST4bdOyTSAe3"},
-        {"episode": 2, "link": "https://youtu.be/idjDCoDlZR8?si=I2VfFO8rf7o4mZO7"},
-        {"episode": 3, "link": "https://youtu.be/6ICc16hdCaU?si=eaasnMJk4SjuEN39"}
+        {"episode": 1, "link": "https://www.youtube.com/embed/eRmYMiULIvI?si=rz1H1_hk-x661n_9"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/idjDCoDlZR8?si=P4Nkjba2oMpKRcez"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/6ICc16hdCaU?si=ru9JSpEP-2gjFw03"}
       ]
     },
     {
@@ -135,7 +135,7 @@
       "rating": 9.1,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/q2VYBMH2Sik?si=BbJgPO1MVMhL8FWp",
+      "video": "https://www.youtube.com/embed/q2VYBMH2Sik?si=6eV-53YJ6RsV1AXm",
       "cover": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/nxxyh0x1vp4nydt1730718445463_IsjPBMWT/0",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjZlMzM5ODMtOWQyYy00ZTMyLTk2NWQtNDg1NTAxYWIzMDgxXkEyXkFqcGc@._V1_.jpg",
       "duration": 15,
@@ -145,230 +145,13 @@
       "subtitles": ["English", "Chinese", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/_NE5Auyipb4?si=D_FWHlMCG9UT_6Fq"},
-        {"episode": 2, "link": "https://youtu.be/mUun9m7AlZ0?si=iSElvuDTmLGfEbXx"},
-        {"episode": 3, "link": "https://youtu.be/256J-OCrq_w?si=vS-U7u1dsD0lWOpc"}
+        {"episode": 1, "link": "https://www.youtube.com/embed/GUhBK1JS-Ps?si=SDX9m3IsaTNSzbhC"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/87v1wInLbDo?si=JOBKtm4OOuUozKfJ"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/FDnA0_e_63M?si=_4zluMJSSh8nVi-u"}
       ]
     },
     {
       "id": 7,
-      "title": "One Piece",
-      "type": ["Series", "Anime"],
-      "description": "One Piece is a legendary anime series based on the manga by Eiichiro Oda. The story follows Monkey D. Luffy, a spirited young pirate with a dream of becoming the Pirate King. Alongside his loyal crew, the Straw Hat Pirates, Luffy sails the Grand Line in search of the mythical treasure, One Piece, while battling formidable foes and forming lasting friendships.",
-      "genre": ["Action", "Adventure", "Fantasy", "Comedy", "Drama"],
-      "release": 1999,
-      "rating": 8.8,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Japanese"],
-      "video": "https://youtu.be/1KMcoJBMWE4?si=Ae4s4BJv2KKhBE0B",
-      "cover": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/One-Piece-Triptych.jpg",
-      "thumbnail": "https://static.animecorner.me/2021/11/voI100-scaled.jpg",
-      "duration": 23,
-      "studio": "Toei Animation",
-      "tags": "pirates, treasure hunt, adventure, comedy, friendship, fantasy",
-      "country": ["Japan"],
-
-      "audio": ["Japanese"],
-      "episodes": [
-        {"episode": 1, "link": "https://khanime.net/episode/one-piece-log-fish-man-island-saga-season-1-episode-1/"},
-        {"episode": 2, "link": "https://khanime.net/episode/season-1-episode-2-4/"},
-        {"episode": 3, "link": "https://khanime.net/episode/season-1-episode-3-4/"}
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Naruto",
-      "type": ["Series", "Anime"],
-      "description": "Naruto is a beloved anime series based on the manga by Masashi Kishimoto. The story follows Naruto Uzumaki, a spirited ninja with dreams of becoming the Hokage, the leader of his village. Despite being ostracized due to the Nine-Tails Fox sealed within him, Naruto's determination, courage, and loyalty inspire those around him as he embarks on a journey of self-discovery, friendship, and battles against powerful foes.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Drama", "Romance"],
-      "release": 2002,
-      "rating": 9.3,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Japanese"],
-      "video": "https://youtu.be/-G9BqkgZXRA?si=xCkwXvDj7kr_mN49",
-      "cover": "https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-3840x1080-18714.jpg",
-      "thumbnail": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974740932/naruto-shippuden-the-official-coloring-book-9781974740932_hr.jpg",
-      "duration": 24,
-      "studio": "Pierrot",
-      "tags": "ninja, action, adventure, fantasy, friendship, coming-of-age",
-      "country": ["Japan"],
-      "subtitles": ["English", "Japanese", "Khmer", "Korean"],
-      "audio": ["Japanese"],
-      "episodes": [
-        {"episode": 1, "link": "https://khanime.net/episode/boruto-naruto-next-generations-season-1-episode-1/"},
-        {"episode": 2, "link": "https://khanime.net/episode/boruto-naruto-next-generations-season-1-episode-2/"},
-        {"episode": 3, "link": "https://khanime.net/episode/boruto-naruto-next-generations-season-1-episode-3/"}
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Demon Slayer: Mugen Train",
-      "type": ["Movie", "Anime"],
-      "description": "Demon Slayer: Mugen Train is a movie continuation of the *Demon Slayer* anime series, based on the manga by Koyoharu Gotouge. The story follows Tanjiro Kamado and his companions as they board the Mugen Train to investigate mysterious disappearances. They face off against powerful demons, including the fearsome Lower Rank One, Enmu, in a battle that tests their strength, loyalty, and resolve.",
-      "genre": ["Action", "Adventure", "Supernatural", "Fantasy", "Drama"],
-      "release": 2020,
-      "rating": 8.8,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Japanese"],
-      "video": "https://khanime.net/movie/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/",
-      "cover": "https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1613993182428-R5SIXOIEUZ5FP6XTU9XE/Cover.png",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000640100413-69mq2s-t500x500.jpg",
-      "duration": 115,
-      "studio": "ufotable",
-      "tags": "demons, action, adventure, supernatural, fantasy",
-      "country": ["Japan"],
-      "subtitles": ["English", "Japanese", "Khmer"],
-      "audio": ["Japanese"],
-      "episodes": []
-    },
-    {
-      "id": 10,
-      "title": "Jujutsu Kaisen",
-      "type": ["Series", "Anime"],
-      "description": "Jujutsu Kaisen is an anime series based on the manga by Gege Akutami. The story follows Yuji Itadori, a high school student who becomes involved with the world of Jujutsu Sorcerers after he swallows a cursed object, which turns out to be the finger of a powerful curse named Ryomen Sukuna. With his newfound abilities, Yuji joins a group of sorcerers to fight curses and uncover the mysteries of the supernatural world.",
-      "genre": ["Action", "Adventure", "Fantasy", "Supernatural", "Drama"],
-      "release": 2020,
-      "rating": 8.9,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Japanese"],
-      "video": "https://youtu.be/Pm-wNmS9RGI?si=bf9S8RgJupu319hS",
-      "cover": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a44778ea-3457-40e0-8979-b7e3685d23d0/dftr3y6-afc7b5f3-7b6e-4259-9a12-0867ac9fbc6b.png/v1/fill/w_1920,h_1010,q_80,strp/jujutsu_kaisen_wallpaper_8k_loading_screen_by_newjer53_dftr3y6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAxMCIsInBhdGgiOiJcL2ZcL2E0NDc3OGVhLTM0NTctNDBlMC04OTc5LWI3ZTM2ODVkMjNkMFwvZGZ0cjN5Ni1hZmM3YjVmMy03YjZlLTQyNTktOWExMi0wODY3YWM5ZmJjNmIucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fVE2bSBHV-CE70zTrPf_gUiTM21HScC3ELzhnGbGf-I",
-      "thumbnail": "https://comenian.org/wp-content/uploads/2024/01/unnamed-87.png",
-      "duration": 23,
-      "studio": "MAPPA",
-      "tags": "curses, jujutsu sorcerers, supernatural, action, adventure",
-      "country": ["Japan"],
-      "subtitles": ["English", "Japanese", "Khmer", "Korean"],
-      "audio": ["Japanese"],
-      "episodes": [
-        {"episode": 1, "link": "https://khanime.net/episode/jujutsu-kaisen-season-1-episode-1/"},
-        {"episode": 2, "link": "https://khanime.net/episode/jujutsu-kaisen-season-1-episode-2/"},
-        {"episode": 3, "link": "https://khanime.net/episode/jujutsu-kaisen-season-1-episode-3/"}
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Solo Leveling",
-      "type": ["Series", "Anime"],
-      "description": "Solo Leveling is an anime series based on the popular Korean web novel and manhwa. The story follows Sung Jin-Woo, a weak 'Hunter' in a world where portals connect to dangerous dungeons filled with monsters. After a near-death experience, he gains the ability to level up by completing quests and grows into one of the strongest beings in existence. As he unravels mysteries of the dungeons and his powers, he faces increasingly powerful enemies and uncovers the truth behind the world’s current state.",
-      "genre": ["Action", "Adventure", "Fantasy", "Supernatural", "Drama"],
-      "release": 2023,
-      "rating": 8.7,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Korean"],
-      "video": "https://youtu.be/byJ7pxxhaDY?si=v7I-lnSCZRGI0CAf",
-      "cover": "https://images6.alphacoders.com/132/1320541.png",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_.jpg",
-      "duration": 23,
-      "studio": "A-1 Pictures",
-      "tags": "dungeons, leveling, action, adventure, supernatural",
-      "country": ["South Korea"],
-      "subtitles": ["English", "Korean", "Japanese", "Khmer"],
-      "audio": ["Korean"],
-      "episodes": [
-        {"episode": 1, "link": "https://khanime.net/episode/solo-leveling-season-10-episode-1/"},
-        {"episode": 2, "link": "https://khanime.net/episode/solo-leveling-season-10-episode-2/"},
-        {"episode": 3, "link": "https://khanime.net/episode/solo-leveling-season-10-episode-3/"}
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Spy x Family: CODE White",
-      "type": ["Movie", "Anime"],
-      "description": "Spy x Family: CODE White is a movie based on the *Spy x Family* anime series. It follows the Forger family as they embark on a mission involving a dangerous cyber-terrorist plot. Twilight, a top spy, must work alongside his fake wife, Yor, and their adopted daughter, Anya, as they navigate the complex world of espionage, blending in their own personal challenges with the global crisis at hand.",
-      "genre": ["Action", "Comedy", "Spy", "Adventure", "Drama", "Romance"],
-      "release": 2023,
-      "rating": 8.5,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Japanese"],
-      "video": "https://youtu.be/sCfNDQmoxkA?si=t-oSwXMZxAY5Y-RY",
-      "cover": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/spy-x-family-code-white-poster-with-the-forgers.jpg",
-      "thumbnail": "https://thathashtagshow.com/wp-content/uploads/2023/11/F9171nWb0AASYfu-724x1024.jpeg",
-      "duration": 110,
-      "studio": "WIT Studio, CloverWorks",
-      "tags": "spy, family, action, adventure, comedy, thriller",
-      "country": ["Japan"],
-      "subtitles": ["English", "Japanese", "Korean", "Khmer"],
-      "audio": ["Japanese", "English"],
-      "episodes": []
-    },
-    {
-      "id": 13,
-      "title": "Sakamoto Days",
-      "type": ["TV Show", "Anime"],
-      "description": "Sakamoto Days follows Taro Sakamoto, a former assassin who has retired to lead a peaceful life running a convenience store with his family. However, his past resurfaces, compelling him to return to his lethal skills to protect his loved ones.",
-      "genre": ["Action", "Comedy", "Thriller"],
-      "release": 2025,
-      "rating": 8.7,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Japanese"],
-      "video": "https://youtu.be/fPopd3ZOGUY?si=oZfOcRlQiAlo0t4_",
-      "cover": "https://metapress.com/wp-content/uploads/2024/07/Sakamoto-Days.jpeg",
-      "thumbnail": "https://c4.wallpaperflare.com/wallpaper/341/236/1009/sakamoto-days-anime-hd-wallpaper-preview.jpg",
-      "duration": 25,
-      "studio": "TMS Entertainment",
-      "tags": "assassin, action, comedy, thriller",
-      "country": ["Japan"],
-      "subtitles": ["English", "Japanese", "Khmer"],
-      "audio": ["Japanese"],
-      "episodes": [
-        {"episode": 1, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-1/"},
-        {"episode": 2, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-2/"},
-        {"episode": 3, "link": "https://khanime.net/episode/sakamoto-days-season-1-episode-3/"}
-      ]
-    },
-    {
-      "id": 14,
-      "title": "Dragon Prince Yuan",
-      "type": ["Series", "Donghua"],
-      "description": "Dragon Prince Yuan follows the journey of a young cultivator, Yuan, who is born with a mysterious dragon soul and embarks on a path of growth, seeking strength and answers about his past. With martial arts, cultivation, and fantasy elements, he faces powerful foes, navigates political intrigue, and unravels secrets that could change his world. Set in a world filled with magic, ancient secrets, and powerful clans, Dragon Prince Yuan presents a story of adventure, self-discovery, and destiny.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
-      "release": 2024,
-      "rating": 8.2,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Chinese"],
-      "video": "https://youtu.be/_P7B2CPX0Io?si=uvm7GTjdKlt74v0l",
-      "cover": "https://i.pinimg.com/originals/ba/09/c5/ba09c54e97973942ee7321edd959d220.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTljZjQ4MDMtZWQwZS00ZDY2LWJlZjUtYjc4ODQ3NTc1NjU5XkEyXkFqcGc@._V1_.jpg",
-      "duration": 20,
-      "studio": "Tencent Penguin Pictures",
-      "tags": "martial arts, cultivation, fantasy, adventure, dragon soul",
-      "country": ["China"],
-      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
-      "audio": ["Chinese"],
-      "episodes": [
-        {"episode": 1, "link": "https://youtu.be/gsM6WvD5_TM?si=_AyfY6mVRjg8eLVG"},
-        {"episode": 2, "link": "https://youtu.be/K5EG-QypqHc?si=1uornNe3zU_BaSZy"},
-        {"episode": 3, "link": "https://youtu.be/OJiRQJ8mBOQ?si=BN_gnigV8ql5_pHV"}
-      ]
-    },
-    {
-      "id": 15,
-      "title": "Martial Universe",
-      "type": ["Series", "Donghua"],
-      "description": "Martial Universe follows the story of Lin Dong, a young martial artist who embarks on a journey to seek revenge and uncover the mysteries of the Martial Universe. Along the way, he discovers his true potential and learns about powerful martial arts and cultivation techniques.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
-      "release": 2018,
-      "rating": 8.9,
-      "age": ["13+", "Teens", "Young Adults"],
-      "language": ["Chinese"],
-      "video": "https://youtu.be/Mnm4mGNBkWQ?si=WenTML36fsJsU90u",
-      "cover": "https://pic-bstarstatic.akamaized.net/ugc/bfd0fda97c4b29d39109271dca836504.jpg",
-      "thumbnail": "https://i.pinimg.com/564x/0a/e4/9a/0ae49a6831c52fadc1c0a44c3424afd7.jpg",
-      "duration": 24,
-      "studio": "Studio GOKUMI, Tencent Penguin Pictures",
-      "tags": "martial arts, cultivation, fantasy, action, revenge, adventure",
-      "country": ["China"],
-      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
-      "audio": ["Chinese"],
-      "episodes": [
-        {"episode": 1, "link": "https://youtu.be/G-I9TpIQldM?si=qgNjKi6aK9i5EAeH"},
-        {"episode": 2, "link": "https://youtu.be/FGR-1wQ2B2k?si=soiLsvVu_IA2cy-Z"},
-        {"episode": 3, "link": "https://youtu.be/1Jc2vi19h5g?si=VTUJYr9DLLrQbwJQ"}
-      ]
-    },
-    {
-      "id": 16,
       "title": "Perfect World",
       "type": ["Series", "Donghua"],
       "description": "Perfect World follows Shi Hao, a boy born with an extraordinary fate. The story explores his journey through a chaotic world full of mystical powers, powerful enemies, and complex relationships as he aims to cultivate to the peak and unlock the mysteries of the universe.",
@@ -377,21 +160,47 @@
       "rating": 9.4,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/BMkq0o8UuQE?si=OyTt2ZS-ngj0-WjP",
+      "video": "https://www.youtube.com/embed/otboD9moFQI?si=Ty6RniDxZRMO7z9i",
       "cover": "https://i.ytimg.com/vi/4BEXSxEQPO4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_2YEp6asQALl11TfJKXc8Vzq8Fw",
       "thumbnail": "https://i.pinimg.com/736x/cc/e3/a6/cce3a6ace2ecc39ac3a53d55887d2dc7.jpg",
-      "duration": 18,
+      "duration": 16,
       "studio": "Studio GOKUMI, Tencent Penguin Pictures",
       "tags": "cultivation, martial arts, fantasy, adventure, supernatural",
       "country": ["China"],
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/ZVlrYv_3Dek?si=dTMuJx2BnyJbNbWu"},
-        {"episode": 2, "link": "https://youtu.be/Ju_F_HjLpEQ?si=BWtaObmtKbqrAJ50"},
-        {"episode": 3, "link": "https://youtu.be/4DAN9ieOSrs?si=yetAh72S5E6XOsBF"}
+        {"episode": 1, "link": "https://www.youtube.com/embed/wwHehLYzsqk?si=xoI0gokVaCcs_t2o"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/d4_dFC-QPn0?si=iHZvl2egu5Z_HXun"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/YWrsCI5BMTs?si=3Cq_JFzCzfQYzEYX"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Martial Universe",
+      "type": ["Series", "Donghua"],
+      "description": "Martial Universe follows Lin Dong, a young martial artist who discovers a mysterious talisman that propels him into a world of powerful sects, hidden treasures, and fierce battles. As he grows stronger, he uncovers secrets about his family's past and the greater destiny awaiting him.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts"],
+      "release": 2019,
+      "rating": 8.9,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/K6kpNUwCMBo?si=YgdgnS3s2_Id9OtU",
+      "cover": "https://donghua-news.com/wp-content/uploads/2024/12/breaking-news-the-chinese-donghua-martial-universe-season-5-coming-poster-and-trailer-CEGMndqW_jc.jpg",
+      "thumbnail": "https://donghua-news.com/wp-content/uploads/2024/12/Chinese-donghua-Martial-Universe-3.jpg",
+      "duration": 24,
+      "studio": "Shanghai Motion Magic",
+      "tags": "martial arts, cultivation, adventure, fantasy, action",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Chinese"],
+      "episodes": [
+         {"episode": 1, "link": "https://www.youtube.com/embed/G-I9TpIQldM?si=uD0r201wGIZ-rXWy"},
+         {"episode": 2, "link": "https://www.youtube.com/embed/FGR-1wQ2B2k?si=w5kCb6s5WTzxeB97"},
+         {"episode": 3, "link": "https://www.youtube.com/embed/1Jc2vi19h5g?si=u39lLWqV7h6SOf-c"}
       ]
     }
+    
 
 
   ]
