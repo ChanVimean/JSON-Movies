@@ -10,7 +10,7 @@
       "rating": 9.2,
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
-      "video": "https://youtu.be/_FIUOegRT4s?si=rP1Io2HDPSFRqcDv",
+      "video": "https://www.youtube.com/embed/XfExZccPjLg?si=2agZKA2kQSrAqf82",
       "cover": "https://wallpaperaccess.com/full/2478865.jpg",
       "thumbnail": "https://sspark.ai/cfimages?u1=P65L7Xv%2FyvGeMHjBG%2F%2FqiEemM26dBVh6Uw39wRJLZ72rtOHSVneVsewCVXej521sIuXqPCvwBGZT2yZ9gTCP95bcnWwNISgddVvCypWtW3PSem4FYlZGzwut6sYnPlfp37VVT8UL8w918IBTo4ASRAAzh9QTo8uRdTGF132Tz04pMPs2Xy85%2FHHvrHQRGbeOBGDnhJoepebZMKc1zNCcPyU%3D&u2=ZIx%2Bem3QzWe2iB4h&width=1024",
       "duration": 18,
@@ -20,9 +20,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian "],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://youtu.be/gSgyw2-WchI?si=7gWkcLej1fvZDxbY"},
-        {"episode": 2, "link": "https://youtu.be/UMU-ZFpjUkA?si=SYOoNhKScPv3FfMN"},
-        {"episode": 3, "link": "https://youtu.be/1FJyYLsxIi4?si=aM6eGrDTk4SVqKid"}
+        {"episode": 1, "link": "https://www.youtube.com/embed/gSgyw2-WchI?si=GdnOEvhfunN8TLLx"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/UMU-ZFpjUkA?si=zDbkcDg3q9R9zoEQ"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/1FJyYLsxIi4?si=a3HNQ-Or3bgTfMv9"}
       ]
     },
     {
