@@ -5,7 +5,13 @@
       "title": "Battle Through The Heavens",
       "type": ["Series", "Donghua"],
       "description": "Battle Through The Heavens is an animated series based on the popular Chinese web novel of the same name. The story follows Xiao Yan, a young martial artist who, after losing all his powers, embarks on a journey of cultivation to regain his strength and uncover the mysteries of his past. Along the way, he faces fierce rivals, powerful enemies, and forms alliances with a variety of characters.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Supernatural"
+      ],
       "release": 2017,
       "rating": 9.2,
       "age": ["13+", "Teens", "Young Adults"],
@@ -20,9 +26,18 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian "],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/gSgyw2-WchI?si=GdnOEvhfunN8TLLx"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/UMU-ZFpjUkA?si=zDbkcDg3q9R9zoEQ"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/1FJyYLsxIi4?si=a3HNQ-Or3bgTfMv9"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/gSgyw2-WchI?si=GdnOEvhfunN8TLLx"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/UMU-ZFpjUkA?si=zDbkcDg3q9R9zoEQ"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/1FJyYLsxIi4?si=a3HNQ-Or3bgTfMv9"
+        }
       ]
     },
     {
@@ -30,7 +45,14 @@
       "title": "Jade Dynasty",
       "type": ["Series", "Donghua"],
       "description": "Jade Dynasty is an animated series based on the popular Chinese web novel *Zhu Xian*. The story follows Zhang Xiaofan, a young man who, after the massacre of his family, embarks on a path of cultivation. As he trains to become a powerful martial artist, he uncovers secrets about his lineage, faces enemies, and struggles with moral dilemmas, while exploring themes of love, loyalty, and power.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural", "Romance"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Supernatural",
+        "Romance"
+      ],
       "release": 2019,
       "rating": 8.7,
       "age": ["13+", "Teens", "Young Adults"],
@@ -45,9 +67,18 @@
       "subtitles": ["English", "Chinese", "Khmer", "French", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/nzMpuKicQwk?si=csLCV6jWU_3h35N5"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/R2M4Ib1C1aM?si=G5en9JTuzXpXAgfd"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/I4JHhX7JZEg?si=uxCX4Dsf-UdnvzpS"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/nzMpuKicQwk?si=csLCV6jWU_3h35N5"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/R2M4Ib1C1aM?si=G5en9JTuzXpXAgfd"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/I4JHhX7JZEg?si=uxCX4Dsf-UdnvzpS"
+        }
       ]
     },
     {
@@ -55,7 +86,13 @@
       "title": "Soul Land 1",
       "type": ["Series", "Donghua"],
       "description": "Soul Land 1, also known as Douluo Dalu, is an animated series based on the popular Chinese novel of the same name. The story follows Tang San, a young genius of the Tang Sect, who, after sacrificing himself for forbidden knowledge, is reincarnated in a world where martial spirits are awakened. Tang San strives to master his spirit powers, uncover the truth about his reincarnation, and rise to the top of the Soul Land.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Supernatural"
+      ],
       "release": 2018,
       "rating": 9.0,
       "age": ["13+", "Teens", "Young Adults"],
@@ -70,9 +107,18 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/M7lE49GNbf4?si=-g9HiCYmrWdxANNr"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/g61Iwi4Ny44?si=yS0091I2OX8Kc62c"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/L1d9NUup2WI?si=ILIcNN6aezxaEqwq"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/M7lE49GNbf4?si=-g9HiCYmrWdxANNr"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/g61Iwi4Ny44?si=yS0091I2OX8Kc62c"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/L1d9NUup2WI?si=ILIcNN6aezxaEqwq"
+        }
       ]
     },
     {
@@ -80,7 +126,13 @@
       "title": "Soul Land 2",
       "type": ["Series", "Donghua"],
       "description": "Soul Land 2, also known as Douluo Dalu II, is the sequel to the popular animated series Soul Land. The story continues the journey of Tang San's descendants in a world where martial spirits are cultivated. It follows the adventures of a new generation of spirit masters, led by the young and talented Tang Wutong, as they uncover the hidden powers within the Soul Land and face powerful foes in their quest for glory and survival.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Supernatural"
+      ],
       "release": 2020,
       "rating": 9.2,
       "age": ["13+", "Teens", "Young Adults"],
@@ -95,9 +147,18 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/ucPbRYWUqbw?si=LDDFKzQQEbZ6Zd4N"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/xwaBWEjU_qM?si=SHTH_XJgbf8wmIeF"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/Asx-xhCqKkE?si=si00ini1Hq4SPQ06"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/ucPbRYWUqbw?si=LDDFKzQQEbZ6Zd4N"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/xwaBWEjU_qM?si=SHTH_XJgbf8wmIeF"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/Asx-xhCqKkE?si=si00ini1Hq4SPQ06"
+        }
       ]
     },
     {
@@ -105,7 +166,13 @@
       "title": "Swallowed Star",
       "type": ["Series", "Donghua"],
       "description": "Swallowed Star is a futuristic animated series based on the Chinese web novel by I Eat Tomatoes. Set in a post-apocalyptic world where humanity faces destruction from monstrous beings, Luo Feng, a young man with extraordinary determination, strives to become a powerful warrior to protect his loved ones and uncover the mysteries of the universe.",
-      "genre": ["Action", "Adventure", "Sci-Fi", "Martial Arts", "Supernatural"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Martial Arts",
+        "Supernatural"
+      ],
       "release": 2020,
       "rating": 8.5,
       "age": ["13+", "Teens", "Young Adults"],
@@ -120,9 +187,18 @@
       "subtitles": ["English", "Chinese", "Spanish", "French", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/eRmYMiULIvI?si=rz1H1_hk-x661n_9"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/idjDCoDlZR8?si=P4Nkjba2oMpKRcez"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/6ICc16hdCaU?si=ru9JSpEP-2gjFw03"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/eRmYMiULIvI?si=rz1H1_hk-x661n_9"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/idjDCoDlZR8?si=P4Nkjba2oMpKRcez"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/6ICc16hdCaU?si=ru9JSpEP-2gjFw03"
+        }
       ]
     },
     {
@@ -130,7 +206,13 @@
       "title": "Throne of Seal",
       "type": ["Series", "Donghua"],
       "description": "Throne of Seal, also known as Shen Yin Wang Zuo, is an animated series based on the Chinese web novel by Tang Jia San Shao. The story follows Long Hao Chen, a young knight who embarks on a journey to master the path of a divine knight. Alongside his companions, he battles the forces of darkness and strives to protect humanity, uncovering secrets about his destiny and his family along the way.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Supernatural"
+      ],
       "release": 2022,
       "rating": 9.1,
       "age": ["13+", "Teens", "Young Adults"],
@@ -145,9 +227,18 @@
       "subtitles": ["English", "Chinese", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/GUhBK1JS-Ps?si=SDX9m3IsaTNSzbhC"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/87v1wInLbDo?si=JOBKtm4OOuUozKfJ"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/FDnA0_e_63M?si=_4zluMJSSh8nVi-u"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/GUhBK1JS-Ps?si=SDX9m3IsaTNSzbhC"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/87v1wInLbDo?si=JOBKtm4OOuUozKfJ"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/FDnA0_e_63M?si=_4zluMJSSh8nVi-u"
+        }
       ]
     },
     {
@@ -155,7 +246,13 @@
       "title": "Perfect World",
       "type": ["Series", "Donghua"],
       "description": "Perfect World follows Shi Hao, a boy born with an extraordinary fate. The story explores his journey through a chaotic world full of mystical powers, powerful enemies, and complex relationships as he aims to cultivate to the peak and unlock the mysteries of the universe.",
-      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Supernatural"
+      ],
       "release": 2020,
       "rating": 9.4,
       "age": ["13+", "Teens", "Young Adults"],
@@ -170,9 +267,18 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Chinese"],
       "episodes": [
-        {"episode": 1, "link": "https://www.youtube.com/embed/wwHehLYzsqk?si=xoI0gokVaCcs_t2o"},
-        {"episode": 2, "link": "https://www.youtube.com/embed/d4_dFC-QPn0?si=iHZvl2egu5Z_HXun"},
-        {"episode": 3, "link": "https://www.youtube.com/embed/YWrsCI5BMTs?si=3Cq_JFzCzfQYzEYX"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/wwHehLYzsqk?si=xoI0gokVaCcs_t2o"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/d4_dFC-QPn0?si=iHZvl2egu5Z_HXun"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/YWrsCI5BMTs?si=3Cq_JFzCzfQYzEYX"
+        }
       ]
     },
     {
@@ -195,13 +301,563 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Chinese"],
       "episodes": [
-         {"episode": 1, "link": "https://www.youtube.com/embed/G-I9TpIQldM?si=uD0r201wGIZ-rXWy"},
-         {"episode": 2, "link": "https://www.youtube.com/embed/FGR-1wQ2B2k?si=w5kCb6s5WTzxeB97"},
-         {"episode": 3, "link": "https://www.youtube.com/embed/1Jc2vi19h5g?si=u39lLWqV7h6SOf-c"}
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/G-I9TpIQldM?si=uD0r201wGIZ-rXWy"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/FGR-1wQ2B2k?si=w5kCb6s5WTzxeB97"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/1Jc2vi19h5g?si=u39lLWqV7h6SOf-c"
+        }
       ]
+    },
+    {
+      "id": 9,
+      "title": "Dragon Prince Yuan",
+      "type": ["Series", "Donghua"],
+      "description": "Dragon Prince Yuan follows the journey of Yuan, a young cultivator destined for greatness. With the fate of his empire hanging in the balance, he embarks on an arduous path of cultivation, forging alliances and battling formidable foes to unlock his true potential.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts"],
+      "release": 2023,
+      "rating": 9.0,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/_P7B2CPX0Io?si=vmMQu9OK82QmQEVI",
+      "cover": "https://i.pinimg.com/originals/ba/09/c5/ba09c54e97973942ee7321edd959d220.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTljZjQ4MDMtZWQwZS00ZDY2LWJlZjUtYjc4ODQ3NTc1NjU5XkEyXkFqcGc@._V1_.jpg",
+      "duration": 22,
+      "studio": "Tencent Penguin Pictures",
+      "tags": "martial arts, cultivation, adventure, fantasy, action",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/gsM6WvD5_TM?si=s83YMSbfdgj0Ma4v"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/K5EG-QypqHc?si=pHbNquZ_xu41FiAG"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/K5EG-QypqHc?si=y6lHb8ygeAOrCWzm"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Great Ruler",
+      "type": ["Series", "Donghua"],
+      "description": "The Great Ruler follows Mu Chen, a talented young martial artist who embarks on a journey to reach the pinnacle of cultivation. Along the way, he encounters powerful enemies, forms strong alliances, and unravels the mysteries of the universe.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts"],
+      "release": 2020,
+      "rating": 8.8,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/6XN6HRyKYRk?si=o8o9zA7MkmY6Osyx",
+      "cover": "https://i.ytimg.com/vi/6XN6HRyKYRk/maxresdefault.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTNmZWZiODktYjdiZi00MGRlLWIxNGUtODgzMjdhOTdiNjg2XkEyXkFqcGc@._V1_.jpg",
+      "duration": 23,
+      "studio": "Motion Magic",
+      "tags": "martial arts, cultivation, adventure, fantasy, action",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/DmxQRHWmQ4E?si=ipi5en_4yvjJx2uS"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/3l-e213h3po?si=T0nAAhnu2Ijb_3zF"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The King's Avatar",
+      "type": ["Series", "Donghua"],
+      "description": "The King's Avatar follows Ye Xiu, a top-tier esports player who is forced to retire from his team. However, he does not give up and makes a comeback by starting anew in the game Glory, climbing his way back to the top with his exceptional skills and deep understanding of the game.",
+      "genre": ["Action", "Esports", "Game", "Drama"],
+      "release": 2017,
+      "rating": 7.4,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/ef7GCI4Cdxg?si=2szjlr9VKS7VqpSX",
+      "cover": "https://images2.alphacoders.com/923/923041.jpg",
+      "thumbnail": "https://i.pinimg.com/originals/ce/a2/2b/cea22bf134dec36437108c6e25e8dd3b.jpg",
+      "duration": 25,
+      "studio": "B.CMAY Pictures, Tencent Penguin Pictures",
+      "tags": "esports, gaming, action, strategy, drama",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/O7XQd5wRPm8?si=n_-pWrbFhSoUljyg"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/xMtMk-_Rnmw?si=2Im5lblIpgHcbtV5"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/peUH4u7s6FY?si=89R_yM3_a8gFh4jU"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The War of Cards",
+      "type": ["Series", "Donghua"],
+      "description": "The War of Cards follows a young strategist who discovers a mysterious deck of magical cards that hold immense power. As he delves deeper into the secrets of the cards, he finds himself caught in a grand conflict that will determine the fate of the world.",
+      "genre": ["Action", "Fantasy", "Strategy", "Adventure"],
+      "release": 2022,
+      "rating": 8.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/EeaTUj884SY?si=gBe0hkXu7CSI50Fs",
+      "cover": "https://i.ytimg.com/vi/Jbayu7FAOso/maxresdefault.jpg",
+      "thumbnail": "https://donghua-news.com/wp-content/uploads/2024/12/The-War-of-Cards-2024-2.jpg",
+      "duration": 22,
+      "studio": "Tencent Animation & Comics",
+      "tags": "cards, strategy, adventure, fantasy, action",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/MNsGcZG5sa8?si=5OjRWquPMdh2NMY1"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/La2sC95ZAMM?si=Q6NGF0uh2oLFncnZ"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/KH8wC_JMNZE?si=EeKRuzRpNLoVtEZX"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "A Will Eternal",
+      "type": ["Series", "Donghua"],
+      "description": "A Will Eternal follows Bai Xiaochun, a mischievous but kind-hearted young cultivator who seeks immortality out of his fear of death. His journey is filled with humor, adventure, and intense battles as he grows in strength and wisdom.",
+      "genre": ["Action", "Comedy", "Fantasy", "Martial Arts"],
+      "release": 2020,
+      "rating": 7.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/hkX8cFgnwKc?si=5_PFpjjp_atXukWb",
+      "cover": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fseries%2F388680%2Fbackgrounds%2F6033bcf478216.jpg&w=3840&q=75",
+      "thumbnail": "https://images.justwatch.com/poster/306930221/s718/a-will-eternal.jpg",
+      "duration": 24,
+      "studio": "B.CMAY Pictures",
+      "tags": "cultivation, humor, adventure, fantasy, action",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/Hfa0l1438qA?si=NbrXhj48VuWv5g3o"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/gqonnTlpKkY?si=GR_uhgYqWhOASmf6"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/m_IBfPKWqpQ?si=NGjW492uobmN9hcE"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Rakshasa Street",
+      "type": ["Series", "Donghua"],
+      "description": "Rakshasa follows the tale of a young warrior who must navigate a world filled with demons, ancient secrets, and powerful cultivators in order to uncover the truth behind his mysterious past.",
+      "genre": ["Action", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": 2021,
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/-7MuidgTdNY?si=_bVvPp1YxM9wpc6D",
+      "cover": "https://i.pinimg.com/736x/0d/00/28/0d0028577eea2477dcc9eb7f26d678b6.jpg",
+      "thumbnail": "https://static.wikia.nocookie.net/rakshasa-street/images/b/b7/Anime_Poster.jpg/revision/latest?cb=20160708231659",
+      "duration": 20,
+      "studio": "Studio X",
+      "tags": "martial arts, supernatural, demons, action, fantasy",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/JZGpOsTx7RA?si=K5PF7Ei1Q35kK96_"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/rJgaeCM0Zh4?si=144h7ygWWicbSK_F"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/HiJmkR309Jc?si=GuCfGYSYee0fYNMn"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Fog Hill of Five Elements",
+      "type": ["Series", "Donghua"],
+      "description": "Fog Hill of Five Elements tells the story of a world where elemental powers govern everything, and warriors must harness their abilities to fight against mysterious creatures threatening humanity.",
+      "genre": ["Action", "Fantasy", "Martial Arts", "Supernatural"],
+      "release": 2020,
+      "rating": 6.9,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/VTYRdGnAKYU?si=xbhSanhd_YYAIYEX",
+      "cover": "https://pbs.twimg.com/media/GLGohyRaoAAoJeO.jpg:large",
+      "thumbnail": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftxl5QH4S5ZfwteAVBY4nteYxzxD.jpg",
+      "duration": 24,
+      "studio": "Nice Boat Animation",
+      "tags": "martial arts, supernatural, elements, action, fantasy",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/D7U0n7y1a9E?si=PTOPL__1ly1d93N1"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/vCj4WjXsZKA?si=Q3CTEhkj_9cR6UeR"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Cinderella Chef",
+      "type": ["Series", "Donghua"],
+      "description": "Cinderella Chef follows a modern-day chef who is transported back in time to ancient China, where she must use her culinary skills to survive and navigate a world filled with intrigue and romance.",
+      "genre": ["Romance", "Comedy", "Historical", "Drama"],
+      "release": 2018,
+      "rating": 7.2,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/XdlWdCp-krs?si=9FD_B7JtQG62WU7e",
+      "cover": "https://images.justwatch.com/backdrop/306956085/s640/season-3",
+      "thumbnail": "https://images.sr.roku.com/idType/roku/context/global/id/dd04d21d5ac3c53a350ae016ccd96e3a/rokuFeed/assets/220a4825cba25907aa50add459348387.jpg/magic/396x0/filters:quality(70)",
+      "duration": 20,
+      "studio": "Wawayu Animation",
+      "tags": "romance, historical, time travel, cooking, drama",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/2fy8htHjrA4?si=W4QlEj9wT4Uvs1vo"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/5ozApM_RZog?si=HO724Bg5QeB64Nom"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/8UN3XgL_nK8?si=tIYYMxVXmWwP0h6T"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Link Click",
+      "type": ["Series", "Donghua"],
+      "description": "Link Click follows two young men who run a mysterious photography studio, using their unique ability to enter photographs and alter events of the past to help their clients resolve regrets and mysteries.",
+      "genre": ["Mystery", "Supernatural", "Drama", "Sci-Fi"],
+      "release": 2021,
+      "rating": 8.0,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/qfvHaAxKH2k?si=Lg7nAxi2z_V6yMAP",
+      "cover": "https://4kwallpapers.com/images/wallpapers/shiguang-dailiren-2560x1440-16202.jpg",
+      "thumbnail": "https://images.static-bluray.com/products/20/118652_1_large.jpg",
+      "duration": 24,
+      "studio": "Haoliners Animation League",
+      "tags": "mystery, supernatural, time travel, drama, sci-fi",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/0tcR2RcpzbA?si=2gC4GAbfTrfBZsPT"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/ejiKecg0ERo?si=ievhaZnXyib3Dzl0"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/wSR7ghSCgkE?si=Q3zLVpsVSX0qW4O7"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Heaven Official's Blessing",
+      "type": ["Series", "Donghua"],
+      "description": "Heaven Official's Blessing tells the story of Xie Lian, a beloved prince and powerful martial god who, after multiple banishments, ascends to the heavens once again and encounters the mysterious and charming ghost king, Hua Cheng.",
+      "genre": ["Fantasy", "Adventure", "Romance", "Supernatural"],
+      "release": 2020,
+      "rating": 8.4,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/AxsSF5eKL3o?si=FOjPs3M7BMde-ALm",
+      "cover": "https://wallpaper.forfun.com/fetch/6f/6f6b983e4a97871b7a62593af00640e6.jpeg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWJlOTFlYjMtMzNiYS00MmZiLTk2MjktZTdjZmMzMmI2ODI5XkEyXkFqcGc@._V1_.jpg",
+      "duration": 24,
+      "studio": "Haoliners Animation League, Bilibili",
+      "tags": "fantasy, adventure, romance, supernatural, drama",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/5PKnnLvGets?si=rfq3BcJQgfLbYDSb"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/nrycp9JbPXo?si=70XmanHEFCvzT-yw"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/v0zFLvwcRY8?si=eoG3-M31Vb14fhit"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Fairies Album",
+      "type": ["Series", "Donghua"],
+      "description": "Fairies Album follows the adventures of a divine doctor who travels the lands, helping spirits and mythical creatures with their ailments while uncovering ancient secrets and legends.",
+      "genre": ["Fantasy", "Supernatural", "Drama"],
+      "release": 2020,
+      "rating": 8.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/TZtZgBqXQ5E?si=L9B0QHeLpcrKw5Rk",
+      "cover": "https://m.media-amazon.com/images/S/pv-target-images/1168fab89119d9e00257e1a7837873c2af7ea32028faadc74a372271e897d136.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/original/zerNctulVtTf9OGhlwcH27fFEil.jpg",
+      "duration": 20,
+      "studio": "Tencent Penguin Pictures, Bilibili",
+      "tags": "fantasy, supernatural, folklore, drama, mythology",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/TXNVfR1L7zM?si=QO_KGuHtCUO7zmnC"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/z78wtmZLOQk?si=SPpFXT6HaA-ityYm"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/8RPsZiW3hIE?si=AkSQ9gr56klC1_3X"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "The Daily Life of the Immortal King",
+      "type": ["Series", "Donghua"],
+      "description": "The Daily Life of the Immortal King follows Wang Ling, a near-invincible cultivator who wishes to live a normal high school life but constantly faces challenges that threaten to expose his true abilities.",
+      "genre": ["Comedy", "Fantasy", "Supernatural"],
+      "release": 2020,
+      "rating": 8.3,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Chinese"],
+      "video": "https://www.youtube.com/embed/NYSbgtnXlQg?si=g9UJxiW6DnTrvU2r",
+      "cover": "https://m.media-amazon.com/images/S/pv-target-images/acd4ffa221a3eca36be94cc520663b8ee84057bcb760f97c8766bc58d25e62de.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGUyNDRjNzItYzU0OC00ZTYxLTgxMTItMjAzMjg0YmM0MjhmXkEyXkFqcGc@._V1_.jpg",
+      "duration": 18,
+      "studio": "Haoliners Animation League, Bilibili",
+      "tags": "comedy, fantasy, school life, supernatural, cultivation",
+      "country": ["China"],
+      "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Chinese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/BF5rO2Oq6tQ?si=1JtF4_76VSCjuKMX"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/sPu8GCBD3Y4?si=nLSBRX_8VueojlJT"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/iY3e4agQ9RA?si=jfhHWeo-Up8YqmYn"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "One Punch Man",
+      "type": ["Series", "Anime"],
+      "description": "One Punch Man follows Saitama, a hero who can defeat any opponent with a single punch, as he searches for a worthy challenge in a world full of powerful monsters and villains.",
+      "genre": ["Action", "Comedy", "Superhero", "Sci-Fi"],
+      "release": 2015,
+      "rating": 8.9,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/YUH1mfV3IEU?si=6zPnpe0sKKvUM0Js",
+      "cover": "https://4kwallpapers.com/images/wallpapers/one-punch-man-saitama-genos-boros-one-punch-man-a-hero-3840x2160-7317.jpg",
+      "thumbnail": "https://e1.pxfuel.com/desktop-wallpaper/736/158/desktop-wallpaper-one-punch-man-live-one-punch-man-thumbnail.jpg",
+      "duration": 24,
+      "studio": "Madhouse",
+      "tags": "action, comedy, superhero, martial arts, parody",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/VvK6UZWNU2Q?si=xYrhV8RznuP6F1ML"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/2Zk1-G8k66w?si=Z94Mn7DiQME-xVzY"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/r6cxwSmwe4A?si=mJ69ixk0TTh2fck_"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Naruto: Legend of the Stone of Gelel",
+      "type": ["Movie", "Anime"],
+      "description": "Naruto and his team embark on a mission involving a mysterious mineral known as the Stone of Gelel, encountering powerful enemies and uncovering a hidden conflict along the way.",
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts"],
+      "release": 2005,
+      "rating": 7.1,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/tE6kJryE_uc?si=uk8xYDbUEgAht_97",
+      "cover": "https://images.justwatch.com/backdrop/152723558/s640/naruto-the-movie-legend-of-the-stone-of-gelel",
+      "thumbnail": "https://static.thcdn.com/images/large/original/productimg/960/960/9995211-6444324892204583.jpg",
+      "duration": 96,
+      "studio": "Studio Pierrot",
+      "tags": "action, adventure, ninja, fantasy, martial arts",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Japanese"],
+      "episodes": []
+    },
+    {
+      "id": 23,
+      "title": "Demon Slayer: Kimetsu no Yaiba Hinokami Chronicles",
+      "type": ["Series", "Anime"],
+      "description": "Tanjiro and his companions embark on a new journey filled with intense battles and emotional struggles as they continue their quest to defeat the demons threatening humanity.",
+      "genre": ["Action", "Supernatural", "Adventure"],
+      "release": 2021,
+      "rating": 8.7,
+      "age": ["16+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/_4w1tfU4FuM?si=HvOxO1VgQtZjsD4v",
+      "cover": "https://o.qoo-img.com/storage.qoo-img.com/game/12771/HYDCq5SrvcPgDytUOYXtHvREfAeNn6vJ.jpg?w=800",
+      "thumbnail": "https://wallpapers.com/images/hd/demon-slayer-anime-kimetsu-no-yaiba-the-hinokami-chronicles-4jio9x0mw62h15v1.jpg",
+      "duration": 24,
+      "studio": "ufotable",
+      "tags": "action, adventure, demons, supernatural, swordsmanship",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Indonesian", "Khmer"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/YY6siGfrgFo?si=rqmfn6ivSpXuCPHZ"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/Jd_jbN-8-u4?si=2vY5WvmrgEFERhts"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/dyjDux-tGd0?si=ZMvbcnapM_ab-aSK"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Jujutsu Kaisen",
+      "type": ["Series", "Anime"],
+      "description": "Jujutsu Kaisen follows Yuji Itadori, a high school student who joins a secret organization of Jujutsu Sorcerers to eliminate powerful curses after he accidentally becomes the host of the most dangerous curse, Sukuna.",
+      "genre": ["Action", "Supernatural", "Fantasy"],
+      "release": 2020,
+      "rating": 8.9,
+      "age": ["16+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/Pm-wNmS9RGI?si=Dmi5D5MT4M0ySPHE",
+      "cover": "https://p325k7wa.twic.pics/high/jujutsu-kaisen/jujutsu-kaisen-cursed-clash/00-page-setup/JJK-header-mobile2.jpg?twic=v1/resize=760/step=10/quality=80",
+      "thumbnail": "https://w0.peakpx.com/wallpaper/735/163/HD-wallpaper-gojo-satoru-anime-cool-gojou-itadori-yuji-jujutsu-jujutsu-kaisen-kaisen-manga-thumbnail.jpg",
+      "duration": 23,
+      "studio": "MAPPA",
+      "tags": "curses, exorcists, supernatural battles, dark fantasy",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {
+          "episode": 1,
+          "link": "https://www.youtube.com/embed/miiLadou1cw?si=_4TOgFbZ1tlmQsYQ"
+        },
+        {
+          "episode": 2,
+          "link": "https://www.youtube.com/embed/YKnowHCkAA8?si=gp6TOSxxdalkchuQ"
+        },
+        {
+          "episode": 3,
+          "link": "https://www.youtube.com/embed/v_vqYyQ5L9s?si=fb3FymHEDt1vI3-1"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Spy x Family: Code White",
+      "type": ["Movie", "Anime"],
+      "description": "Spy x Family: Code White follows the Forger family as they embark on a new mission. Loid, Yor, and Anya find themselves caught in a high-stakes adventure that threatens world peace, testing their bond as a family.",
+      "genre": ["Action", "Comedy", "Spy", "Romance"],
+      "release": 2024,
+      "rating": 8.6,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/sCfNDQmoxkA?si=fGYgwdb-vaVhNlHY",
+      "cover": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/03/spy-x-family-CODE-white-anime-film-teaser-visual-e1679794180666.jpg?fit=1799%2C1017&amp;ssl=1",
+      "thumbnail": "https://i.pinimg.com/736x/2c/31/5f/2c315fdc4a3b624c3f98046df1c28cad.jpg",
+      "duration": 120,
+      "studio": "WIT Studio, CloverWorks",
+      "tags": "spies, family, action, comedy, adventure",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": []
     }
-    
-
-
   ]
 }
