@@ -5,13 +5,7 @@
       "title": "Battle Through The Heavens",
       "type": ["Series", "Donghua"],
       "description": "Battle Through The Heavens is an animated series based on the popular Chinese web novel of the same name. The story follows Xiao Yan, a young martial artist who, after losing all his powers, embarks on a journey of cultivation to regain his strength and uncover the mysteries of his past. Along the way, he faces fierce rivals, powerful enemies, and forms alliances with a variety of characters.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Martial Arts",
-        "Supernatural"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": 2017,
       "rating": 9.2,
       "age": ["13+", "Teens", "Young Adults"],
@@ -26,18 +20,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian "],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/gSgyw2-WchI?si=GdnOEvhfunN8TLLx"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/UMU-ZFpjUkA?si=zDbkcDg3q9R9zoEQ"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/1FJyYLsxIi4?si=a3HNQ-Or3bgTfMv9"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/gSgyw2-WchI?si=GdnOEvhfunN8TLLx" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/UMU-ZFpjUkA?si=zDbkcDg3q9R9zoEQ" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/1FJyYLsxIi4?si=a3HNQ-Or3bgTfMv9" }
       ]
     },
     {
@@ -45,14 +30,7 @@
       "title": "Jade Dynasty",
       "type": ["Series", "Donghua"],
       "description": "Jade Dynasty is an animated series based on the popular Chinese web novel *Zhu Xian*. The story follows Zhang Xiaofan, a young man who, after the massacre of his family, embarks on a path of cultivation. As he trains to become a powerful martial artist, he uncovers secrets about his lineage, faces enemies, and struggles with moral dilemmas, while exploring themes of love, loyalty, and power.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Martial Arts",
-        "Supernatural",
-        "Romance"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural", "Romance"],
       "release": 2019,
       "rating": 8.7,
       "age": ["13+", "Teens", "Young Adults"],
@@ -67,18 +45,9 @@
       "subtitles": ["English", "Chinese", "Khmer", "French", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/nzMpuKicQwk?si=csLCV6jWU_3h35N5"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/R2M4Ib1C1aM?si=G5en9JTuzXpXAgfd"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/I4JHhX7JZEg?si=uxCX4Dsf-UdnvzpS"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/nzMpuKicQwk?si=csLCV6jWU_3h35N5" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/R2M4Ib1C1aM?si=G5en9JTuzXpXAgfd" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/I4JHhX7JZEg?si=uxCX4Dsf-UdnvzpS" }
       ]
     },
     {
@@ -86,13 +55,7 @@
       "title": "Soul Land 1",
       "type": ["Series", "Donghua"],
       "description": "Soul Land 1, also known as Douluo Dalu, is an animated series based on the popular Chinese novel of the same name. The story follows Tang San, a young genius of the Tang Sect, who, after sacrificing himself for forbidden knowledge, is reincarnated in a world where martial spirits are awakened. Tang San strives to master his spirit powers, uncover the truth about his reincarnation, and rise to the top of the Soul Land.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Martial Arts",
-        "Supernatural"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": 2018,
       "rating": 9.0,
       "age": ["13+", "Teens", "Young Adults"],
@@ -107,18 +70,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/M7lE49GNbf4?si=-g9HiCYmrWdxANNr"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/g61Iwi4Ny44?si=yS0091I2OX8Kc62c"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/L1d9NUup2WI?si=ILIcNN6aezxaEqwq"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/M7lE49GNbf4?si=-g9HiCYmrWdxANNr" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/g61Iwi4Ny44?si=yS0091I2OX8Kc62c" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/L1d9NUup2WI?si=ILIcNN6aezxaEqwq" }
       ]
     },
     {
@@ -126,13 +80,7 @@
       "title": "Soul Land 2",
       "type": ["Series", "Donghua"],
       "description": "Soul Land 2, also known as Douluo Dalu II, is the sequel to the popular animated series Soul Land. The story continues the journey of Tang San's descendants in a world where martial spirits are cultivated. It follows the adventures of a new generation of spirit masters, led by the young and talented Tang Wutong, as they uncover the hidden powers within the Soul Land and face powerful foes in their quest for glory and survival.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Martial Arts",
-        "Supernatural"
-      ],
+      "genre": ["Action","Adventure","Fantasy","Martial Arts","Supernatural"],
       "release": 2020,
       "rating": 9.2,
       "age": ["13+", "Teens", "Young Adults"],
@@ -147,18 +95,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Russian"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/ucPbRYWUqbw?si=LDDFKzQQEbZ6Zd4N"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/xwaBWEjU_qM?si=SHTH_XJgbf8wmIeF"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/Asx-xhCqKkE?si=si00ini1Hq4SPQ06"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/ucPbRYWUqbw?si=LDDFKzQQEbZ6Zd4N" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/xwaBWEjU_qM?si=SHTH_XJgbf8wmIeF" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/Asx-xhCqKkE?si=si00ini1Hq4SPQ06" }
       ]
     },
     {
@@ -166,13 +105,7 @@
       "title": "Swallowed Star",
       "type": ["Series", "Donghua"],
       "description": "Swallowed Star is a futuristic animated series based on the Chinese web novel by I Eat Tomatoes. Set in a post-apocalyptic world where humanity faces destruction from monstrous beings, Luo Feng, a young man with extraordinary determination, strives to become a powerful warrior to protect his loved ones and uncover the mysteries of the universe.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Martial Arts",
-        "Supernatural"
-      ],
+      "genre": [ "Action", "Adventure", "Sci-Fi", "Martial Arts", "Supernatural"],
       "release": 2020,
       "rating": 8.5,
       "age": ["13+", "Teens", "Young Adults"],
@@ -206,13 +139,7 @@
       "title": "Throne of Seal",
       "type": ["Series", "Donghua"],
       "description": "Throne of Seal, also known as Shen Yin Wang Zuo, is an animated series based on the Chinese web novel by Tang Jia San Shao. The story follows Long Hao Chen, a young knight who embarks on a journey to master the path of a divine knight. Alongside his companions, he battles the forces of darkness and strives to protect humanity, uncovering secrets about his destiny and his family along the way.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Martial Arts",
-        "Supernatural"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": 2022,
       "rating": 9.1,
       "age": ["13+", "Teens", "Young Adults"],
@@ -227,18 +154,9 @@
       "subtitles": ["English", "Chinese", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/GUhBK1JS-Ps?si=SDX9m3IsaTNSzbhC"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/87v1wInLbDo?si=JOBKtm4OOuUozKfJ"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/FDnA0_e_63M?si=_4zluMJSSh8nVi-u"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/GUhBK1JS-Ps?si=SDX9m3IsaTNSzbhC" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/87v1wInLbDo?si=JOBKtm4OOuUozKfJ" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/FDnA0_e_63M?si=_4zluMJSSh8nVi-u" }
       ]
     },
     {
@@ -246,13 +164,7 @@
       "title": "Perfect World",
       "type": ["Series", "Donghua"],
       "description": "Perfect World follows Shi Hao, a boy born with an extraordinary fate. The story explores his journey through a chaotic world full of mystical powers, powerful enemies, and complex relationships as he aims to cultivate to the peak and unlock the mysteries of the universe.",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Martial Arts",
-        "Supernatural"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
       "release": 2020,
       "rating": 9.4,
       "age": ["13+", "Teens", "Young Adults"],
@@ -267,18 +179,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/wwHehLYzsqk?si=xoI0gokVaCcs_t2o"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/d4_dFC-QPn0?si=iHZvl2egu5Z_HXun"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/YWrsCI5BMTs?si=3Cq_JFzCzfQYzEYX"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/wwHehLYzsqk?si=xoI0gokVaCcs_t2o" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/d4_dFC-QPn0?si=iHZvl2egu5Z_HXun" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/YWrsCI5BMTs?si=3Cq_JFzCzfQYzEYX" }
       ]
     },
     {
@@ -301,18 +204,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/G-I9TpIQldM?si=uD0r201wGIZ-rXWy"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/FGR-1wQ2B2k?si=w5kCb6s5WTzxeB97"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/1Jc2vi19h5g?si=u39lLWqV7h6SOf-c"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/G-I9TpIQldM?si=uD0r201wGIZ-rXWy" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/FGR-1wQ2B2k?si=w5kCb6s5WTzxeB97" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/1Jc2vi19h5g?si=u39lLWqV7h6SOf-c" }
       ]
     },
     {
@@ -335,18 +229,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/gsM6WvD5_TM?si=s83YMSbfdgj0Ma4v"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/K5EG-QypqHc?si=pHbNquZ_xu41FiAG"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/K5EG-QypqHc?si=y6lHb8ygeAOrCWzm"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/gsM6WvD5_TM?si=s83YMSbfdgj0Ma4v" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/K5EG-QypqHc?si=pHbNquZ_xu41FiAG" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/K5EG-QypqHc?si=y6lHb8ygeAOrCWzm" }
       ]
     },
     {
@@ -369,14 +254,8 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/DmxQRHWmQ4E?si=ipi5en_4yvjJx2uS"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/3l-e213h3po?si=T0nAAhnu2Ijb_3zF"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/DmxQRHWmQ4E?si=ipi5en_4yvjJx2uS" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/3l-e213h3po?si=T0nAAhnu2Ijb_3zF" }
       ]
     },
     {
@@ -399,18 +278,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/O7XQd5wRPm8?si=n_-pWrbFhSoUljyg"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/xMtMk-_Rnmw?si=2Im5lblIpgHcbtV5"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/peUH4u7s6FY?si=89R_yM3_a8gFh4jU"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/O7XQd5wRPm8?si=n_-pWrbFhSoUljyg" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/xMtMk-_Rnmw?si=2Im5lblIpgHcbtV5" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/peUH4u7s6FY?si=89R_yM3_a8gFh4jU" }
       ]
     },
     {
@@ -433,18 +303,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/MNsGcZG5sa8?si=5OjRWquPMdh2NMY1"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/La2sC95ZAMM?si=Q6NGF0uh2oLFncnZ"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/KH8wC_JMNZE?si=EeKRuzRpNLoVtEZX"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/MNsGcZG5sa8?si=5OjRWquPMdh2NMY1" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/La2sC95ZAMM?si=Q6NGF0uh2oLFncnZ" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/KH8wC_JMNZE?si=EeKRuzRpNLoVtEZX" }
       ]
     },
     {
@@ -467,18 +328,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/Hfa0l1438qA?si=NbrXhj48VuWv5g3o"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/gqonnTlpKkY?si=GR_uhgYqWhOASmf6"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/m_IBfPKWqpQ?si=NGjW492uobmN9hcE"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/Hfa0l1438qA?si=NbrXhj48VuWv5g3o" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/gqonnTlpKkY?si=GR_uhgYqWhOASmf6" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/m_IBfPKWqpQ?si=NGjW492uobmN9hcE" }
       ]
     },
     {
@@ -492,8 +344,8 @@
       "age": ["13+", "Teens", "Young Adults"],
       "language": ["Chinese"],
       "video": "https://www.youtube.com/embed/-7MuidgTdNY?si=_bVvPp1YxM9wpc6D",
-      "cover": "https://i.pinimg.com/736x/0d/00/28/0d0028577eea2477dcc9eb7f26d678b6.jpg",
-      "thumbnail": "https://static.wikia.nocookie.net/rakshasa-street/images/b/b7/Anime_Poster.jpg/revision/latest?cb=20160708231659",
+      "cover": "https://m.media-amazon.com/images/S/pv-target-images/b5e5722080ccfbc34a3fdf96fad8aac2175b0aca7420f375b29cb2bf1473cc44.jpg",
+      "thumbnail": "https://i.pinimg.com/474x/2c/50/25/2c5025e09204d6b052a80135262fca0a.jpg",
       "duration": 20,
       "studio": "Studio X",
       "tags": "martial arts, supernatural, demons, action, fantasy",
@@ -501,18 +353,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/JZGpOsTx7RA?si=K5PF7Ei1Q35kK96_"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/rJgaeCM0Zh4?si=144h7ygWWicbSK_F"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/HiJmkR309Jc?si=GuCfGYSYee0fYNMn"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/JZGpOsTx7RA?si=K5PF7Ei1Q35kK96_" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/rJgaeCM0Zh4?si=144h7ygWWicbSK_F" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/HiJmkR309Jc?si=GuCfGYSYee0fYNMn" }
       ]
     },
     {
@@ -535,14 +378,8 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/D7U0n7y1a9E?si=PTOPL__1ly1d93N1"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/vCj4WjXsZKA?si=Q3CTEhkj_9cR6UeR"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/D7U0n7y1a9E?si=PTOPL__1ly1d93N1" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/vCj4WjXsZKA?si=Q3CTEhkj_9cR6UeR" }
       ]
     },
     {
@@ -565,18 +402,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/2fy8htHjrA4?si=W4QlEj9wT4Uvs1vo"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/5ozApM_RZog?si=HO724Bg5QeB64Nom"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/8UN3XgL_nK8?si=tIYYMxVXmWwP0h6T"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/2fy8htHjrA4?si=W4QlEj9wT4Uvs1vo" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/5ozApM_RZog?si=HO724Bg5QeB64Nom" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/8UN3XgL_nK8?si=tIYYMxVXmWwP0h6T" }
       ]
     },
     {
@@ -599,18 +427,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/0tcR2RcpzbA?si=2gC4GAbfTrfBZsPT"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/ejiKecg0ERo?si=ievhaZnXyib3Dzl0"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/wSR7ghSCgkE?si=Q3zLVpsVSX0qW4O7"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/0tcR2RcpzbA?si=2gC4GAbfTrfBZsPT" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/ejiKecg0ERo?si=ievhaZnXyib3Dzl0" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/wSR7ghSCgkE?si=Q3zLVpsVSX0qW4O7" }
       ]
     },
     {
@@ -633,18 +452,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/5PKnnLvGets?si=rfq3BcJQgfLbYDSb"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/nrycp9JbPXo?si=70XmanHEFCvzT-yw"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/v0zFLvwcRY8?si=eoG3-M31Vb14fhit"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/5PKnnLvGets?si=rfq3BcJQgfLbYDSb" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/nrycp9JbPXo?si=70XmanHEFCvzT-yw" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/v0zFLvwcRY8?si=eoG3-M31Vb14fhit" }
       ]
     },
     {
@@ -667,18 +477,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/TXNVfR1L7zM?si=QO_KGuHtCUO7zmnC"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/z78wtmZLOQk?si=SPpFXT6HaA-ityYm"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/8RPsZiW3hIE?si=AkSQ9gr56klC1_3X"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/TXNVfR1L7zM?si=QO_KGuHtCUO7zmnC" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/z78wtmZLOQk?si=SPpFXT6HaA-ityYm" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/8RPsZiW3hIE?si=AkSQ9gr56klC1_3X" }
       ]
     },
     {
@@ -701,18 +502,9 @@
       "subtitles": ["English", "Chinese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Chinese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/BF5rO2Oq6tQ?si=1JtF4_76VSCjuKMX"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/sPu8GCBD3Y4?si=nLSBRX_8VueojlJT"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/iY3e4agQ9RA?si=jfhHWeo-Up8YqmYn"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/BF5rO2Oq6tQ?si=1JtF4_76VSCjuKMX" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/sPu8GCBD3Y4?si=nLSBRX_8VueojlJT" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/iY3e4agQ9RA?si=jfhHWeo-Up8YqmYn" }
       ]
     },
     {
@@ -735,18 +527,9 @@
       "subtitles": ["English", "Japanese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Japanese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/VvK6UZWNU2Q?si=xYrhV8RznuP6F1ML"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/2Zk1-G8k66w?si=Z94Mn7DiQME-xVzY"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/r6cxwSmwe4A?si=mJ69ixk0TTh2fck_"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/VvK6UZWNU2Q?si=xYrhV8RznuP6F1ML" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/2Zk1-G8k66w?si=Z94Mn7DiQME-xVzY" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/r6cxwSmwe4A?si=mJ69ixk0TTh2fck_" }
       ]
     },
     {
@@ -790,18 +573,9 @@
       "subtitles": ["English", "Japanese", "Spanish", "Indonesian", "Khmer"],
       "audio": ["Japanese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/YY6siGfrgFo?si=rqmfn6ivSpXuCPHZ"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/Jd_jbN-8-u4?si=2vY5WvmrgEFERhts"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/dyjDux-tGd0?si=ZMvbcnapM_ab-aSK"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/YY6siGfrgFo?si=rqmfn6ivSpXuCPHZ" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/Jd_jbN-8-u4?si=2vY5WvmrgEFERhts" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/dyjDux-tGd0?si=ZMvbcnapM_ab-aSK" }
       ]
     },
     {
@@ -824,18 +598,9 @@
       "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Japanese"],
       "episodes": [
-        {
-          "episode": 1,
-          "link": "https://www.youtube.com/embed/miiLadou1cw?si=_4TOgFbZ1tlmQsYQ"
-        },
-        {
-          "episode": 2,
-          "link": "https://www.youtube.com/embed/YKnowHCkAA8?si=gp6TOSxxdalkchuQ"
-        },
-        {
-          "episode": 3,
-          "link": "https://www.youtube.com/embed/v_vqYyQ5L9s?si=fb3FymHEDt1vI3-1"
-        }
+        { "episode": 1, "link": "https://www.youtube.com/embed/miiLadou1cw?si=_4TOgFbZ1tlmQsYQ" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/YKnowHCkAA8?si=gp6TOSxxdalkchuQ" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/v_vqYyQ5L9s?si=fb3FymHEDt1vI3-1" }
       ]
     },
     {
@@ -859,5 +624,9 @@
       "audio": ["Japanese"],
       "episodes": []
     }
+
+
+
+
   ]
 }
