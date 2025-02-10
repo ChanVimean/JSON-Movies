@@ -623,7 +623,133 @@
       "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
       "audio": ["Japanese"],
       "episodes": []
+    },
+    {
+      "id": 26,
+      "title": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+      "type": ["Movie", "Anime"],
+      "description": "Naruto, Sakura, Rock Lee, and Kakashi are assigned to protect the prince of the Land of the Moon. During their journey, they face unexpected dangers as a sinister plot unfolds, threatening the kingdom and their mission.",
+      "genre": ["Action", "Adventure", "Martial Arts", "Shounen"],
+      "release": 2006,
+      "rating": 7.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/5KJc1hc08UU?si=MgqxIXHOmjDTdGTP",
+      "cover": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUaaYK7uvjc2djVDLnzyXnKIniZPuyAxOu9GibDMSO2benUKRf-epzmkE6l4QMfbubZmVwHPmHzUcQADK9tNtNO31F_xjWMlAV84.jpg?r=2a8",
+      "thumbnail": "https://m.media-amazon.com/images/I/51JBOqWFocL._AC_UF894,1000_QL80_.jpg",
+      "duration": 95,
+      "studio": "Pierrot",
+      "tags": "ninjas, action, adventure, shounen",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": []
+    },
+    {
+      "id": 27,
+      "title": "UniteUp! -Uni:Birth-",
+      "type": ["Series", "Anime"],
+      "description": "A new chapter in the UniteUp! series, following the journey of aspiring idols as they overcome obstacles and grow together in the competitive world of music entertainment.",
+      "genre": ["Music", "Drama"],
+      "release": 2024,
+      "rating": 7.2,
+      "age": ["All Ages"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/bo88JQeK8wk?si=dM4pcpTYyPkZm56S",
+      "cover": "https://pbs.twimg.com/media/GgdLZFvbEAAKT-R.jpg",
+      "thumbnail": "https://vn.e-muse.com.tw/wp-content/uploads/2022/12/Unite-Up_%E8%B6%8A%E7%9B%B4-copy-2-scaled.jpg",
+      "duration": 24,
+      "studio": "CloverWorks",
+      "tags": "idols, music, drama, slice of life",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": [
+        { "episode": 1, "link": "https://www.youtube.com/embed/NTuUEqaVnKU?si=kt6x3dgzWHxcXA6t" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/3auCcf38G0I?si=wY3ajFIanbOPCzEG" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/bwb3rH_Hq20?si=FPRMdEYPkjJaIyMY" }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Ahiru no Sora",
+      "type": ["Series", "Anime"],
+      "description": "Ahiru no Sora follows Sora Kurumatani, a short but determined basketball player who joins a high school team full of delinquents. With his unwavering spirit and passion for the sport, he strives to turn the team into true competitors.",
+      "genre": ["Sports", "Drama", "School"],
+      "release": 2019,
+      "rating": 7.1,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/3kgEMuDEznc?si=cBG-UEDa8K7zeQJB",
+      "cover": "https://m.media-amazon.com/images/S/pv-target-images/061884fea4d73f580e4de4889f814aaf35ca573670426ed760bee90ec5003cb0.jpg",
+      "thumbnail": "https://w0.peakpx.com/wallpaper/234/566/HD-wallpaper-ahiru-no-sora-sora-kurumatani-sports-anime.jpg",
+      "duration": 24,
+      "studio": "Diomedéa",
+      "tags": "basketball, sports, high school, competition, friendship",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {"episode": 1, "link": "https://www.youtube.com/embed/RlcIbb8u9r0?si=SBzHo95irNZshfet"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/l2MSQsU3mV4?si=5Hs3aQsedAqCuofq"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/4F2QWSWkiuo?si=ik4Mwkx8-1CQJKqx"}
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Spy x Family",
+      "type": ["Series", "Anime"],
+      "description": "Spy x Family follows the elite spy Twilight, who must create a fake family to complete a crucial mission. Unbeknownst to him, his pretend wife is an assassin, and his adopted daughter is a telepath. Together, they navigate hilarious and action-packed challenges while keeping their true identities secret.",
+      "genre": ["Action", "Comedy", "Romance", "Spy", "Mystery"],
+      "release": 2022,
+      "rating": 8.7,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/CCXLUQzuigw?si=tcD3mzHNz7_CqQzz",
+      "cover": "https://w0.peakpx.com/wallpaper/355/824/HD-wallpaper-anime-spy-x-family-anya-forger-bond-spy-x-family.jpg",
+      "thumbnail": "https://galaxycon.com/cdn/shop/files/ScanJan29_2024_7615ef72-07a3-41e9-aa72-af048a0c6570_600x.jpg?v=1706558830",
+      "duration": 24,
+      "studio": "Wit Studio, CloverWorks",
+      "tags": "spy, comedy, family, action, secret identity",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": [
+        {"episode": 1, "link": "https://www.youtube.com/embed/h_tL16PZ0IE?si=itUDe3itzn-KFEyV"},
+        {"episode": 2, "link": "https://www.youtube.com/embed/NIgOI38wYzc?si=2-KojGYKBIMJS75j"},
+        {"episode": 3, "link": "https://www.youtube.com/embed/ziiXFMl2nto?si=3ixYWWlGPCKjC3AQ"}
+      ]
+    },
+    {
+      "id": 30,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "type": ["Series", "Anime"],
+      "description": "After being killed in an unfortunate stabbing incident, Satoru Mikami finds himself reincarnated in a fantasy world as a slime named Rimuru. With unique abilities, he embarks on an adventure to create a new world where all races can coexist peacefully.",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "release": 2018,
+      "rating": 8.5,
+      "age": ["13+", "Teens", "Young Adults"],
+      "language": ["Japanese"],
+      "video": "https://www.youtube.com/embed/MfmV1iQlRFg?si=n4wnyzrkhx_2Wk28",
+      "cover": "https://images2.alphacoders.com/991/991889.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/81k5ZKOw8UL._AC_UF894,1000_QL80_.jpg",
+      "duration": 24,
+      "studio": "8bit",
+      "tags": "reincarnation, adventure, magic, comedy",
+      "country": ["Japan"],
+      "subtitles": ["English", "Japanese", "Spanish", "Khmer", "Indonesian"],
+      "audio": ["Japanese"],
+      "episodes": [
+        { "episode": 1, "link": "https://www.youtube.com/embed/RoAPuxzfad4?si=EikLIocANb6Q2f0w" },
+        { "episode": 2, "link": "https://www.youtube.com/embed/cXUGI0CVG4c?si=MCL2iR4kKtLeOGm7" },
+        { "episode": 3, "link": "https://www.youtube.com/embed/Kgcp9mzgtIM?si=UtsGzcBc7i38A6O6" }
+      ]
     }
+    
+    
+    
+    
+    
 
 
 
